@@ -1,0 +1,134 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Daily notes": true
+  },
+  "workspaceLayout": {
+    "id": "b446427ac364fc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "d995985866c6cc12",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/2020-07-05.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "1e6abcd6ba040929",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c30ee6e94cbdb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f9f12f7d128072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2630334d38fe2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2f2ea7062c0126e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "6405d74e755f4fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd22b4125876cfb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aef2fdd08cb830a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef6da537143f4c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "hotkeys": {
+    "app:go-back": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "app:go-forward": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowRight"
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "Journal/2020-07-05.md",
+    "Journal/_Journal Template.md",
+    "Top 10 France.md",
+    "Ideas.md",
+    "Journal/2020-06-18.md"
+  ],
+  "alwaysUpdateLinks": true
+}

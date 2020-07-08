@@ -1,0 +1,4 @@
+#personal
+
+![[Accommodation#France]]
+
