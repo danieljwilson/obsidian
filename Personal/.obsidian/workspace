@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "b446427ac364fc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f000c81a335696a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conda.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e6abcd6ba040929",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c30ee6e94cbdb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f9f12f7d128072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2630334d38fe2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2f2ea7062c0126e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6405d74e755f4fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "857a533b9e098975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aef2fdd08cb830a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c6d1a8689365ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef6da537143f4c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Conda.md",
+    "Jupyter.md",
+    "conda-cheatsheet.pdf",
+    "Untitled 1.md",
+    "College Algebra and Problem Solving.md"
+  ]
+}

@@ -3,7 +3,7 @@ Type #video #labmeeting #talk
 Link <https://www.youtube.com/watch?v=otjR6iGp4yU>
 ## Topics 
 [[meta-learning]]
-[[reinforcement learning]]
+[[Reinforcement learning]]
 [[Matthew Botvinick]]
 
 ## Notes

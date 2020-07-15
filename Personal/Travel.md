@@ -1,1 +1,4 @@
 ## [[Accommodation]]
+
+## [[Ontario]]
+![[Ontario#Nature]]
