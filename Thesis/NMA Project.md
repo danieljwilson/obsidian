@@ -11,7 +11,18 @@ Proposed projects of interest:
 - State-dependence of stim+choice signals
 - Impact of circadian rhythms on task performance
 - Dimensionality within and between brain areas
-- 
+
+
+# Group B
+### Questions
+- What is a state?
+	- How to categorize beyond moving/non-moving
+	- Interesting to think about how to categorize states
+
+Keep in mind:
+- Movement has multiple parts: (preparation/movement/feedback)
+
+
 
 # Resources
 - [youtube videos](https://www.youtube.com/playlist?list=PLkBQOLLbi18ODTckxhgah98JloMLXt4oF)

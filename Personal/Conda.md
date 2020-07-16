@@ -1,3 +1,6 @@
+[[Programming]]
+[[Python]]
+
 #learning 
 
 ## Tips

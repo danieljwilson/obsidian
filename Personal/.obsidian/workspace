@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conda.md",
-            "mode": "preview"
+            "file": "Steinmetz_AN_2019.md",
+            "mode": "source"
           }
         }
       }
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6405d74e755f4fff",
@@ -95,10 +94,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Conda.md",
-    "Jupyter.md",
-    "conda-cheatsheet.pdf",
     "Untitled 1.md",
-    "College Algebra and Problem Solving.md"
+    "Cron.md",
+    "Programming.md",
+    "Python.md",
+    "Conda.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[Modeling]]
+[[modeling]]
 [[Levels of Analysis]]
 
 # Notes

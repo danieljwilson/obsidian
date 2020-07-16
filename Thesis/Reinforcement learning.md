@@ -1,5 +1,5 @@
 
-[[Modeling]]
+[[modeling]]
 [[Machine Learning]]
 [[Neuroscience]]
 

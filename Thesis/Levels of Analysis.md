@@ -1,4 +1,4 @@
-[[Modeling]]
+[[modeling]]
 [[Marr's Three Levels]]
 
 

@@ -9,4 +9,4 @@ Entropy used as a measure to show that the [[Exponential distribution|exponentia
 **[[Ideas|Idea]]**: Check the shape of the distribution of letters in the English language. And perhaps also bi-grams.
 
 # Resources
-Neuromatch notebook dealing with [[Entropy|entropy]] and the brain
+Neuromatch notebook dealing with [[entropy|entropy]] and the brain

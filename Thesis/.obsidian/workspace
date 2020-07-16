@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "NMA Project.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -50,13 +50,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af679f22a9862a15",
@@ -91,9 +89,9 @@
   },
   "lastOpenFiles": [
     "NMA Project.md",
-    "Science of Science.md",
-    "w1d2.md",
-    "Quotes.md",
-    "Ioannidis_JPA_2005.md"
+    "w1d4.md",
+    "poisson glm.md",
+    "poisson distribution.md",
+    "w1d3.md"
   ]
 }
