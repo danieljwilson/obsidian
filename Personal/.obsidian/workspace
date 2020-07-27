@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Steinmetz_AN_2019.md",
+            "file": "Algorithm as Chef.md",
             "mode": "source"
           }
         }
@@ -94,10 +94,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Cron.md",
-    "Programming.md",
-    "Python.md",
-    "Conda.md"
+    "Algorithm as Chef.md",
+    "Ideas.md",
+    "health.md",
+    "Journal/2020-07-24.md",
+    "Journal/2020-07-23.md"
   ]
 }

@@ -31,10 +31,10 @@
 ![[model_values.png]]
 
 ## Examples
-### [[Neuroscience]]
+### [[neuroscience]]
 - [[Cosine tuning model]] of neuronal activity
 - [[Hodkin & Huxley model| Hodkin & Huxley]] single neuron spike generation model
-- [[Reinforcement learning| Reinforcement learning]] model
+- [[reinforcement learning| Reinforcement learning]] model
 
 #### Papers
 - Fundamentals of Computational Neuroscience (Trappenberg 2009)

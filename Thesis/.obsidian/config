@@ -23,7 +23,13 @@
         "modifiers": [
           "Mod"
         ],
-        "key": "ArrowLeft"
+        "key": "["
+      },
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "s"
       }
     ],
     "app:go-forward": [
@@ -31,7 +37,7 @@
         "modifiers": [
           "Mod"
         ],
-        "key": "ArrowRight"
+        "key": "]"
       }
     ]
   },

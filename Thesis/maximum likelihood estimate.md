@@ -7,3 +7,4 @@
 - Can be problematic at scale
 
 # Resources
+- Dylan Festa's [notes](https://neurostars.org/t/some-notes-on-maximum-likelihood-estimate/14447) ([[Neuromatch]] TA)

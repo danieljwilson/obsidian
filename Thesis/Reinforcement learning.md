@@ -1,7 +1,7 @@
 
 [[modeling]]
-[[Machine Learning]]
-[[Neuroscience]]
+[[machine learning]]
+[[neuroscience]]
 
 #neuromatch 
 

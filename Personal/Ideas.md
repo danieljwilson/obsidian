@@ -2,6 +2,10 @@ Should think about categories for this section.
 
 ---
 
-* ![[Running for Mayor of Toronto]]
-* ![[Best Academic Path]]
 
+## Doing
+- [[Running for Mayor of Toronto]]
+
+## Writing
+- [[Best Academic Path]]
+- [[Algorithm as Chef]]

@@ -10,7 +10,7 @@
 **Connections**:
 - [[Neuromatch]]
 - [[NMA Project]]
-- [[Neuroscience]]
+- [[neuroscience]]
 
 # Notes
 ## Summary

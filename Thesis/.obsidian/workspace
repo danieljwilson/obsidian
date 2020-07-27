@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NMA Project.md",
+            "file": "linear algebra.md",
             "mode": "source"
           }
         }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NMA Project.md",
-    "w1d4.md",
-    "poisson glm.md",
-    "poisson distribution.md",
-    "w1d3.md"
+    "linear algebra.md",
+    "w2d5.md",
+    "reinforcement learning.md",
+    "Pasted image.png",
+    "Untitled.md"
   ]
 }

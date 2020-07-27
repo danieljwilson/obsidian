@@ -1,5 +1,5 @@
 [[modeling]]
-[[Neuroscience]]
+[[neuroscience]]
 
 #neuromatch
 

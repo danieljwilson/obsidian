@@ -1,5 +1,5 @@
 [[Konrad Kording]]
-[[Neuroscience]]
+[[neuroscience]]
 
 #workshop #neuromatch 
 

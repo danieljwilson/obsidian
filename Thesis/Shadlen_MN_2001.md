@@ -7,7 +7,7 @@
 **Rating**: 
 
 **Connections**:
-* [[Reinforcement learning]]
+* [[reinforcement learning]]
 * [[Dopamine]]
 * [[Perceptual decision]]
 

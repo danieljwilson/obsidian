@@ -1,7 +1,7 @@
 # Info
 **Title**: Spontaneous behaviors drive multidimensional, brainwide activity
 **Journal**: Science
-**Authors**: Carsen Stringer1,2,*,†, View ORCID ProfileMarius Pachitariu1,3,*,†, View ORCID ProfileNicholas Steinmetz4,‡, Charu Bai Reddy4, View ORCID ProfileMatteo Carandini
+**Authors**: Carsen Stringer, Marius Pachitariu, Nicholas Steinmetz, Charu Bai Reddy, Matteo Carandini
 
 **Link**: [Paperpile](chrome-extension://bomfdkbfpdhijjbeoicnfhjbdhncfhig/view.html?mp=tKMRluLJ)
 **Tags**: #paper
@@ -10,7 +10,7 @@
 **Connections**:
 * [[NMA Project]]
 * [[Neuromatch]]
-* [[Neuroscience]]
+* [[neuroscience]]
 * [[Stringer_C_2019_pp]]
 
 # Notes
@@ -18,6 +18,17 @@
 - **Question**: Can behavior of the mouse predict the neural response?
 	- Take behavior and predict neural response
 	- Predicted 1/3 of behavior?
+
+- **Context**: Brain produces structured patterns of activity even in absence of sensory inputs - these can be as larger or larger than sensory-driven activity.
+
+- **Gap**: What do cortical variability and spontaneous activity **represent**?
+	- random noise?
+	- recall or expectation of experience?
+	- encoding of ongoing behavioral and cognitive variables?
+
+- **Outcome**: Visual cortical population activity reliably encodes an orthogonal fusion of sensory and multidimensional behavioral information.
+
+- No difference in behavior between darkness and gray screen
 
 ## Thoughts
 
