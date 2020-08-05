@@ -3,6 +3,40 @@
 #neuromatch 
 
 # Notes
+
+
+
+---
+
+Dimensionality of states
+- need to control for the sample size
+- 3d plot of 3 components
+- histogram of time spent in each state
+- classification/decoding analysis
+	- see if we can predict hidden state by neural data
+- Decoding technique:
+	- take intervals where hmm detecting blue state
+	- Segment interval and calculate average firing rate in that interval
+	- This is "trial 1" of the blue state
+	- Repeat with other intervals and each of these are treated as a "trial"
+	- Then do the same with the orange state
+		- average firing rate of each cell
+	- This segments neural activity into three conditions
+	- Classification analysis (multi-class or binary pairs)
+		- Keep the same number of trials as the smallest condition to avoid bias
+	- Train/test cross validation (5 fold)
+	- Gives good idea of how well neural activity is classifying the hidden states
+		- Also get a weight vector which tells us how much each neuron is contributing to the classification
+		- Could also view this in 3d to see location!! Heat map for each condition...
+	- Maybe set minimum of three consecutive frames of latent state for classification
+	- Can segment the neural activity by putting a threshold of confidence of the state and then get rid of those blocks where they don't stay/average over 90%
+- Try 2 states (moving/not)
+	- Moving may have additional hidden states
+	- Interesting to see the difference between the 2 and 3 state models
+- Videos
+
+
+
 Proposed projects of interest:
 - Biological learning rules for supervised and unsupervised tasks
 - State sequences in population dynamics across cortical areas

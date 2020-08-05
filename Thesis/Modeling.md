@@ -18,6 +18,9 @@
 	- Models are constrained/informed by data
 	- [[Levels of Analysis]]
 
+**What makes a model "good"?**
+![[good_model.png]]
+
 ## Uses
 - Knowledge synthesis
 - Identifying hidden assumption, hypotheses, unknowns
@@ -33,7 +36,7 @@
 ## Examples
 ### [[neuroscience]]
 - [[Cosine tuning model]] of neuronal activity
-- [[Hodkin & Huxley model| Hodkin & Huxley]] single neuron spike generation model
+- [[Hodgkin & Huxley model| Hodkin & Huxley]] single neuron spike generation model
 - [[reinforcement learning| Reinforcement learning]] model
 
 #### Papers

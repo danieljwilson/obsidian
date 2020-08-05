@@ -1,5 +1,7 @@
 #neuromatch 
 
+![[nma_podpeople.png]]
+
 **Dylan (TA)**
 - Bayesian approaches
 - Network models

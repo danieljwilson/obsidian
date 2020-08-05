@@ -11,4 +11,4 @@
 
 
 # Resources
-![[Pasted image 1.png]]
+![[feedforward_neural_network.png]]

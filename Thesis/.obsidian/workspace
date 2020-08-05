@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "10e25a94c22a4991",
+        "id": "8067f0c3ff62d3ae",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear algebra.md",
+            "file": "Wilson_DW_2020_SCAN.md",
             "mode": "source"
           }
         }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "linear algebra.md",
-    "w2d5.md",
-    "reinforcement learning.md",
-    "Pasted image.png",
-    "Untitled.md"
+    "Wilson_DW_2020_SCAN.md",
+    "papers.md",
+    "Untitled.md",
+    "Screenshot 2020-07-31 at 14.54.04.png",
+    "Pod People.md"
   ]
 }

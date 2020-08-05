@@ -7,7 +7,7 @@
 **Rating**:
 
 **Connections**:
-* [[Science of Science]]
+* [[science of science]]
 
 
 # Notes
