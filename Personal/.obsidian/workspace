@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schedule.md",
+            "file": "2020-08-06.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6405d74e755f4fff",
@@ -94,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "schedule.md",
-    "housing.md",
-    "housing plan September 2020.md",
-    "Data Science.md",
-    "data science for social good.md"
+    "2020-08-06.md",
+    "Journal/2020-08-06.md",
+    "Journal/2020-08-05.md",
+    "Books.md",
+    "Gifts.md"
   ]
 }

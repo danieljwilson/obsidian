@@ -1,5 +1,3 @@
-
-
 # Schedule
 ## Work
 ### 7-11
@@ -16,6 +14,10 @@
 ### 11-7
 - 1245 - 215 | Bike (tu/th) | Nap (m/w/f)
 - 16-17 | Morning routine
+	- 30 @ read
+	- 10 @ journal
+	- 10 @ type
+	- 10 @ stretch
 
 ## Night
 - 19-20 | dinner
