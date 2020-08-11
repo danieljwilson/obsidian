@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8067f0c3ff62d3ae",
+        "id": "50977bcae51f7c0e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thesis.md",
-            "mode": "source"
+            "file": "Wilson_DW_2020_SCAN.md",
+            "mode": "preview"
           }
         }
       }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af679f22a9862a15",
@@ -80,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,10 +90,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "thesis.md",
-    "Lieder_F_2019.md",
-    "cognitive prostheses.md",
-    "Templates/Paper template.md",
-    "Wilson_DW_2020_SCAN.md"
+    "Wilson_DW_2020_SCAN.md",
+    "law of cosines.md",
+    "law of sines.md",
+    "trigonometry.md",
+    "sine.md"
   ]
 }

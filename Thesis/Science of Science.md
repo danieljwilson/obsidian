@@ -1,7 +1,7 @@
 [[causality]]
 [[confounding]]
 [[scientific method]]
-
+[[theory]]
 
 # Notes
 **Scientific Conclusion based on Statistical Reasoning**
@@ -16,3 +16,4 @@
 - [Scientific Method](https://www.youtube.com/watch?v=P2pfapZ5no0) [[Kass_R]] #video
 	- Talks about the importance of valid scientific narrative
 - Video: [Crisis of Science](https://www.youtube.com/watch?v=P2pfapZ5no0)
+- Paper: [Lack of theory building and testing impedes progress in the factor and network literature](https://psyarxiv.com/zg84s) [[Eiko Fried]]

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-08-06.md",
-            "mode": "source"
+            "file": "Journal/2020-08-10.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,12 +50,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6405d74e755f4fff",
@@ -95,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2020-08-06.md",
-    "Journal/2020-08-06.md",
-    "Journal/2020-08-05.md",
-    "Books.md",
-    "Gifts.md"
+    "Journal/2020-08-10.md",
+    "Conda.md",
+    "politics.md",
+    "conda-cheatsheet.pdf",
+    "kids 1 year letter.md"
   ]
 }

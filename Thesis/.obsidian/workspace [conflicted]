@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5873e182bcba8aec",
+        "id": "9e91653b8951f69f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hodkin & Huxley model.md",
-            "mode": "preview"
+            "file": "cosine.md",
+            "mode": "source"
           }
         }
       }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Hodkin & Huxley model.md",
-    "Modeling.md",
-    "Reinforcement learning.md",
-    "Levels of Analysis.md",
-    "Occam's Razor.md"
+    "cosine.md",
+    "Pasted image.png",
+    "trigonometric identities.md",
+    "Untitled.md",
+    "machine learning.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[output]]
+	[[output]]
 [[cognitive neuroscience]]
 [[fMRI]]
 
