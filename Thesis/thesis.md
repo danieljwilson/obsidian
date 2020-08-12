@@ -1,4 +1,7 @@
 [[thesis timeline]]
+[[reading list]]
+[[current input]]
+
 
 # Notes
 
@@ -55,6 +58,20 @@
 
 - effect size of bias (Stroop)
 	- effect size on life outcomes (retirement)
+
+## Mickey
+- making sure there is enough of a focus
+	- examine them on those problems
+	- self report vs testing
+	- document individual differences pertaining to biases
+	- we say we are interested in within subject changes in psych but look at aggregate changes
+- how susceptible are people to these various biases
+	- how does this vary with time
+	- cell phone info?
+- Quantify question of interest
+- Greg - experience sampling
+- 
+
 
 # Resources
 - [[thesis timeline]]

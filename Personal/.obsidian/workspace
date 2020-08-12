@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-08-10.md",
-            "mode": "preview"
+            "file": "Journal/2020-08-12.md",
+            "mode": "source"
           }
         }
       }
@@ -55,7 +55,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6405d74e755f4fff",
@@ -95,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-08-12.md",
+    "Journal/2020-08-11.md",
     "Journal/2020-08-10.md",
     "Conda.md",
-    "politics.md",
-    "conda-cheatsheet.pdf",
-    "kids 1 year letter.md"
+    "politics.md"
   ]
 }
