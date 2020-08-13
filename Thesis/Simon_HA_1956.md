@@ -41,9 +41,13 @@ Simon's Question:
 
 - Simon then runs through some math to describe the branching choice structure of this simple organism
 	- Tree structure determined by number of choices available at each branching point, and the length of the "vision" (in effect this could be temporal or spatial)
+- Assumes organism has "neither the senses nor the wits" to discover the best possible path...[[satisficing]] is sufficient
+	- Also important to note that the organisms needs are **not insatiable**
+	- And that it has some storage capacity
 
 ## Thoughts
-
+- Interesting model. Simple, but can describe an organism's behavior that has multiple goals.
+- With humans it seems our level of comfort that is [[satisficing]] can vary across lifespans and contexts...
 
 # Resources
 

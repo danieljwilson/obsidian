@@ -1,11 +1,8 @@
 [[papers_write]]
-[[current input]]
 [[thesis]]
 
-**Link**: [Airtable](https://airtable.com/tblCrvhS7vx2NE7wR/viwlro8UkqyJkLeHP?blocks=hide)
-
 # Current
-- [[current input]]
+**Link**: [Airtable](https://airtable.com/tblCrvhS7vx2NE7wR/viwlro8UkqyJkLeHP?blocks=hide)
 
 # Add
 - Mickey
@@ -17,3 +14,5 @@
 - Heuristics From Bounded Meta-Learned Inference
 
 # Next
+- [Heuristics From Bounded Meta-Learned Inference](https://airtable.com/tblCrvhS7vx2NE7wR/viwRHGNb7kjnTbeO8/recrQETtFs9RFbAZb?blocks=hide)
+- [Combining imagination and heuristics to learn strategies that generalize](chrome-extension://bomfdkbfpdhijjbeoicnfhjbdhncfhig/view.html?mp=XhzEJBba)

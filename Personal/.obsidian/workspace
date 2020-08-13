@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-08-12.md",
+            "file": "Journal/2020-08-13.md",
             "mode": "source"
           }
         }
@@ -96,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-08-13.md",
     "Journal/2020-08-12.md",
     "Journal/2020-08-11.md",
     "Journal/2020-08-10.md",
-    "Conda.md",
-    "politics.md"
+    "Conda.md"
   ]
 }

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wilson_DW_2020_SCAN.md",
+            "file": "Simon_HA_1956.md",
             "mode": "source"
           }
         }
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af679f22a9862a15",
@@ -90,10 +89,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Wilson_DW_2020_SCAN.md",
-    "Untitled.md",
-    "paper_review.md",
-    "papers_write.md",
-    "pap.md"
+    "Simon_HA_1956.md",
+    "reading list.md",
+    "experience sampling.md",
+    "fixed effects.md",
+    "Wilson_DW_2020_SCAN.md"
   ]
 }

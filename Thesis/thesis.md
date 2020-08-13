@@ -1,9 +1,10 @@
 [[thesis timeline]]
 [[reading list]]
-[[current input]]
-
+[[thesis ideas]]
 
 # Notes
+
+## [[thesis ideas|Ideas]]
 
 ## Cendri
 **Ads**
