@@ -8,6 +8,8 @@
 **Rating**: #3star 
 
 **Connections**:
+[[thesis]]
+[[thesis-background]]
 [[decision making]]
 [[decision support]]
 [[rational choice]]
@@ -44,10 +46,14 @@ Simon's Question:
 - Assumes organism has "neither the senses nor the wits" to discover the best possible path...[[satisficing]] is sufficient
 	- Also important to note that the organisms needs are **not insatiable**
 	- And that it has some storage capacity
+- Does not require 
+	- [[utility]] function
+	- [[maximization]] behavior
 
 ## Thoughts
 - Interesting model. Simple, but can describe an organism's behavior that has multiple goals.
 - With humans it seems our level of comfort that is [[satisficing]] can vary across lifespans and contexts...
+- Agree with conclusion that we may not need elaborate mechanisms to describe how we make choices in the face of varied needs
 
 # Resources
 

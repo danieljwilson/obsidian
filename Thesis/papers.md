@@ -1,7 +1,6 @@
-[[papers_read]]
 [[papers_write]]
 [[paper_review]]
-
+[[reading list]]
 
 
 # Notes

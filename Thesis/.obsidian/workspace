@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "50977bcae51f7c0e",
+        "id": "0821c97ce820b962",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simon_HA_1956.md",
+            "file": "exp_thesis01_bias_analysis.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af679f22a9862a15",
@@ -89,10 +90,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Simon_HA_1956.md",
-    "reading list.md",
-    "experience sampling.md",
-    "fixed effects.md",
-    "Wilson_DW_2020_SCAN.md"
+    "Untitled.md",
+    "logarithm.md",
+    "Pasted image.png",
+    "Pasted image 2.png",
+    "Attachments/logarithm_graph.png"
   ]
 }

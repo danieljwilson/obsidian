@@ -6,6 +6,8 @@
 **Tags**: #paper
 **Rating**: #2star
 
+[[thesis]]
+[[thesis-intervention]]
 [[cognitive prostheses]]
 [[bounded rationality]]
 [[rewards]]
