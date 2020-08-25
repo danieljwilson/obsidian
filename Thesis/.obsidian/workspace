@@ -6,14 +6,45 @@
       {
         "id": "0821c97ce820b962",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exp_thesis01_bias_analysis.md",
+            "file": "Binz_M_2020_Heuristics From Bounded Meta-Learned Inference.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "9954f41fbaff662c"
+      },
+      {
+        "id": "a98ffcbc3a38687d",
+        "type": "split",
+        "children": [
+          {
+            "id": "45375647e4b6e116",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binz_M_2020_Heuristics From Bounded Meta-Learned Inference.md",
+                "mode": "preview"
+              }
+            },
+            "group": "9954f41fbaff662c"
+          },
+          {
+            "id": "20bbe27f2c07802f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bounded rationality.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -70,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Binz_M_2020_Heuristics From Bounded Meta-Learned Inference.md"
+              }
             }
           },
           {
@@ -90,10 +123,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "logarithm.md",
-    "Pasted image.png",
-    "Pasted image 2.png",
-    "Attachments/logarithm_graph.png"
+    "Binz_M_2020_Heuristics From Bounded Meta-Learned Inference.md",
+    "one reason decision making heuristic.md",
+    "one good reason heuristic.md",
+    "attributes.md",
+    "bounded rationality.md"
   ]
 }

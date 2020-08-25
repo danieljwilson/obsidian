@@ -1,5 +1,5 @@
 [[thesis timeline]]
-[[reading list]]
+[[thesis-reading list]]
 [[thesis ideas]]
 
 # Notes

@@ -1,3 +1,4 @@
+[[papers_read]]
 [[papers_write]]
 [[thesis]]
 
@@ -5,7 +6,7 @@
 - [Heuristics From Bounded Meta-Learned Inference](https://airtable.com/tblCrvhS7vx2NE7wR/viwRHGNb7kjnTbeO8/recrQETtFs9RFbAZb?blocks=hide)
 
 
-**Link**: [Airtable](https://airtable.com/tblCrvhS7vx2NE7wR/viwlro8UkqyJkLeHP?blocks=hide)
+**To Read: Link**: [Airtable](https://airtable.com/tblCrvhS7vx2NE7wR/viwlro8UkqyJkLeHP?blocks=hide)
 
 # Add
 - Cendri Ad Papers

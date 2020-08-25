@@ -1,6 +1,6 @@
 [[papers_write]]
 [[paper_review]]
-[[reading list]]
+[[thesis-reading list]]
 
 
 # Notes
