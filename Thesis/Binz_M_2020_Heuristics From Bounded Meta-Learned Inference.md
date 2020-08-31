@@ -19,6 +19,7 @@
 [[strategy selection]]
 [[strategy discovery]]
 [[one reason decision making heuristic]]
+[[paired comparison task]]
 
 # Notes
 ## Summary
@@ -28,15 +29,17 @@
 - their current environment
 - minimizing computational resources
 
-- "Rediscovers" two proposed heuristic strategies:
-	- [[one reason decision making heuristic|One reason decision making]]
-		- requires knowledge of correct ranking of attributes
-	- [[equal weighting heuristic|Equal weighting]]
-		- requires knowledge of the *direction* of the attributes
+"Rediscovers" two proposed heuristic strategies:
+- [[one reason decision making heuristic|One reason decision making]]
+	requires knowledge of correct ranking of attributes
+- [[equal weighting heuristic|Equal weighting]]
+requires knowledge of the *direction* of the attributes
 
-- If neither of these are used then default is [[weighted combination of multiple attributes]]
-- [[ideal observer|Ideal observer]] perspective: people weight different attributes of each option appropriately to combine information from all available source
-- [[heuristics|Heuristic]] as [[ecologically rational strategy]]
+If neither of these are used then default is [[weighted combination of multiple attributes]]
+
+[[ideal observer|Ideal observer]] perspective: people weight different attributes of each option appropriately to combine information from all available source
+
+[[heuristics|Heuristic]] as [[ecologically rational strategy]]
 
 ## Thoughts
 
