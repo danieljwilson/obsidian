@@ -1,6 +1,6 @@
 [[thesis]]
 [[thesis-bias]]
-[[experiment]]
+[[my experiments]]
 [[experience sampling]]
 
 #experiment

@@ -1,2 +1,2 @@
-[[thesis-reading list]]
+[[thesis reading list]]
 

@@ -2,6 +2,7 @@
 [[confounding]]
 [[scientific method]]
 [[theory]]
+[[critiques of psyhology and neuroimaging]]
 
 # Notes
 **Scientific Conclusion based on Statistical Reasoning**
@@ -16,4 +17,7 @@
 - [Scientific Method](https://www.youtube.com/watch?v=P2pfapZ5no0) [[Kass_R]] #video
 	- Talks about the importance of valid scientific narrative
 - Video: [Crisis of Science](https://www.youtube.com/watch?v=P2pfapZ5no0)
+- Video: [[causality]] [lecture](https://www.youtube.com/watch?v=P2pfapZ5no0) from [[Neuromatch]]
 - Paper: [Lack of theory building and testing impedes progress in the factor and network literature](https://psyarxiv.com/zg84s) [[Eiko Fried]]
+- [Twitter thread](https://twitter.com/smarek0502/status/1297154759556763649) stating that you need >2000 subjects in [[fMRI]] [[neuroimaging]] for robust results.
+- ![[perverse_incentives.png]]

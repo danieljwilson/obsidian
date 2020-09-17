@@ -1,6 +1,6 @@
 [[statistical power]]
 [[value of information]]
-[[effecdt size]]
+[[effect size]]
 
 # Notes
 
