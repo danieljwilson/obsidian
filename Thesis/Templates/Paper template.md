@@ -1,6 +1,7 @@
 # Info
 **Title**: 
 **Journal**: 
+**Year**:
 **Authors**:
 
 **Link**: 
@@ -8,7 +9,7 @@
 **Rating**:
 
 **Connections**:
-- 
+
 
 
 # Notes

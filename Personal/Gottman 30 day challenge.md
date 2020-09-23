@@ -131,3 +131,37 @@ I appreciate how sexy you are. I feel like it is easy to potentially get a roomm
 Imagine what other options are available to you when you begin to make assumptions about your partner. What would it mean for you to consider curiosity rather than certainty about your partner's behavior?
 
 One thing I feel compassionate about with my partner is the large amount of items on her plate this month. The thing that seems nice is that many of them are deadline based and so will be over, one way or another, by the end of month.
+
+# 19
+## Being a Good Listener
+Imagine asking these questions:
+- What is this like for you?
+- What is it that you don’t like about this situation?
+- What are your concerns?
+- Tell me more about that.
+
+A time I really connected to my partner was when we watched the video of Rilka going down the slide on her own the first time. I appreciated that we both found it funny and that most parents would not, and that we were both kind of proud of Rilka for not crying and going back and doing it again, but in a better way...
+
+# 20
+## How Was Your Day, Dear?
+> Understanding must precede advice.
+
+*List a time when you partner helped you reduce stress.*
+
+When Donna takes on things that reduce my bandwidth I really appreciate it. For example setting up all the daycare stuff and also taking care of the diapers.
+
+# 21
+## Let's Recap
+- What was one thing you learned last week that stuck with you?
+
+This was from the week before but I still think that tone is a big one for me. Also letting myself break out of what I am working on to better engage when Donna is trying to interact with me. 
+- What have you noticed in your relationship since beginning the challenge
+ 
+There are too many moving pieces in our lives to be able to answer this with any confidence. But I am glad we are doing it.
+- What changes have you noticed in yourself?
+
+I am slightly more attuned to tone and engagement than previously. And I try and keep it close to top of mind as much as possible.
+
+# 22
+## Time to Celebrate!
+

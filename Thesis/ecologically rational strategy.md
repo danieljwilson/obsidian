@@ -1,4 +1,4 @@
-[[ecological validity]]
+	[[ecological validity]]
 [[ecological rationality]]
 [[heuristics]]
 [[bounded rationality]]

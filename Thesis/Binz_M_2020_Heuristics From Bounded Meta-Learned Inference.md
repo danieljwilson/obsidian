@@ -5,7 +5,7 @@
 
 **Link**: [paperpile](chrome-extension://bomfdkbfpdhijjbeoicnfhjbdhncfhig/view.html?mp=kE54d2QK)
 **Tags**: #paper
-**Rating**: 
+**Rating**: #2star 
 
 **Connections**:
 [[thesis]]
@@ -41,7 +41,17 @@ If neither of these are used then default is [[weighted combination of multiple 
 
 [[heuristics|Heuristic]] as [[ecologically rational strategy]]
 
-## Thoughts
+[[meta-learning|Meta-learning]] as theory of human behavior. 
 
+A fruitful approach could be to focus on [[decision environment|environment]]. 
+- i.e. What environments explain behavior if we assume [[ecological rationality]] and [[resource rationality]] on the part of the agent?
+
+## Thoughts
+Hm. Not sure I buy it.
+
+But do agree that the interaction of [[environment structure]], i.e. the [[decision environment]] and [[human computational capabilities]] is where the action is.
 
 # Resources
+**Papers**
+- Simon, 1990b 
+- Todd & Gigerenzer, 2012
