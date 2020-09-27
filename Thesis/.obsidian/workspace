@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2355af12332558",
+        "id": "9fd0ccc2a6744bcd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quotes.md",
+            "file": "derivation chain.md",
             "mode": "source"
           }
         },
-        "group": "078997059846138c"
+        "group": "69cdad08ee240fe3"
       },
       {
-        "id": "9fd0ccc2a6744bcd",
+        "id": "fb94516034ba2489",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quotes.md",
+            "file": "derivation chain.md",
             "mode": "preview"
           }
         },
-        "group": "078997059846138c"
+        "group": "69cdad08ee240fe3"
       }
     ],
     "direction": "vertical"
@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md"
+                "file": "derivation chain.md"
               }
             }
           },
@@ -105,10 +106,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Quotes.md",
-    "self-efficacy.md",
-    "efficacy gap.md",
-    "efficacy–effectiveness gap.md",
-    "Untitled 1.md"
+    "derivation chain.md",
+    "measures.md",
+    "hypothetico-deductive method.md",
+    "thesis experiment.md",
+    "thesis experiment questionnaires.md"
   ]
 }
