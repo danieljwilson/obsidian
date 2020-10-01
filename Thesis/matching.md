@@ -1,9 +1,9 @@
 [[causality]]
-[[bias]]
+[[cognitive bias]]
 [[propensity score matching]]
 
 # Notes
-- used to remove sampling [[bias]]
+- used to remove sampling [[cognitive bias]]
 
 # Resources
 

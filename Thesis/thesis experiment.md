@@ -3,7 +3,7 @@
 [[my experiments]]
 [[experimentation]]
 [[experimental design]]
-[[bias]]
+[[cognitive bias]]
 [[heuristics]]
 
 # Notes

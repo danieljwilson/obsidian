@@ -1,6 +1,7 @@
 [[thesis experiment]]
 [[thesis]]
 [[individual differences]]
+[[normative models of decision making]]
 
 # Notes
 Suggested by Cendri:
