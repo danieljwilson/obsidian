@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "decision outcome inventory.md",
+            "file": "exploratory factor analysis.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "decision outcome inventory.md",
+            "file": "exploratory factor analysis.md",
             "mode": "preview"
           }
         },
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decision outcome inventory.md"
+                "file": "exploratory factor analysis.md"
               }
             }
           },
@@ -108,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "decision outcome inventory.md",
-    "adult decision-making competence.md",
-    "thesis experiment questionnaires.md",
-    "normative models of decision making.md",
-    "decision evaluation.md",
-    "meta-cognition.md",
-    "decision integration.md",
-    "value assessment.md",
-    "belief assessment.md",
-    "thesis experiment.md"
+    "exploratory factor analysis.md",
+    "factor analysis.md",
+    "covariance matrix.md",
+    "variance.md",
+    "covariance.md",
+    "correlation.md",
+    "multicollinearity.md",
+    "matrix rank.md",
+    "Untitled 1.md",
+    "Pasted image 20201001144026.png"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-09-30.md",
+            "file": "Journal/2020-10-02.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-09-30.md",
+            "file": "Journal/2020-10-02.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           },
           {
@@ -63,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-09-30.md"
+                "file": "Journal/2020-10-02.md"
               }
             }
           }
@@ -111,6 +112,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-10-02.md",
+    "Journal/2020-10-01.md",
     "Journal/2020-09-30.md",
     "Journal/2020-09-29.md",
     "Gifts.md",
