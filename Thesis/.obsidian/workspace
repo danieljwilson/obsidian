@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exploratory factor analysis.md",
+            "file": "social rationality.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exploratory factor analysis.md",
+            "file": "social rationality.md",
             "mode": "preview"
           }
         },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exploratory factor analysis.md"
+                "file": "social rationality.md"
               }
             }
           },
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "exploratory factor analysis.md",
-    "factor analysis.md",
-    "covariance matrix.md",
-    "variance.md",
-    "covariance.md",
-    "correlation.md",
-    "multicollinearity.md",
-    "matrix rank.md",
-    "Untitled 1.md",
-    "Pasted image 20201001144026.png"
+    "social rationality.md",
+    "ecological rationality.md",
+    "bounded rationality.md",
+    "Todd_PM_2000_Précis of Simple heuristics that make us smart.md",
+    "adaptive toolbox.md",
+    "list of heuristics.md",
+    "anchoring and adjustment heuristic.md",
+    "availability heuristic.md",
+    "representativeness heuristic.md",
+    "QuickEst heuristic.md"
   ]
 }

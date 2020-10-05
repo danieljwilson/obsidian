@@ -3,6 +3,7 @@
 [[decision making]]
 [[strategy selection]]
 [[one good reason heuristic]]
+[[list of heuristics]]
 
 # Notes
 Takes the most important feature and decides between options based solely on that single feature.

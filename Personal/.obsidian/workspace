@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f000c81a335696a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/2020-10-02.md",
-            "mode": "source"
-          }
-        },
-        "group": "b417ad9545e330ce"
-      },
-      {
-        "id": "556cc8c84c12f5a3",
+        "id": "da1429af9f312134",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-10-02.md",
-            "mode": "preview"
+            "file": "Journal/2020-10-05.md",
+            "mode": "source"
           }
-        },
-        "group": "b417ad9545e330ce"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-10-02.md"
+                "file": "Journal/2020-10-05.md"
               }
             }
           }
@@ -112,6 +99,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-10-05.md",
     "Journal/2020-10-02.md",
     "Journal/2020-10-01.md",
     "Journal/2020-09-30.md",

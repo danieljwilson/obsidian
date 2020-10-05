@@ -2,6 +2,9 @@
 [[ecologically rational strategy]]
 [[heuristics]]
 [[bounded rationality]]
+[[environment structure]]
+[[speed-accuracy tradeoff]]
+[[social rationality]]
 
 # Notes
 Interaction between cognition and the environment.

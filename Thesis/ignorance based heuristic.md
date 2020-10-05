@@ -1,8 +1,9 @@
 [[heuristics]]
 [[bounded rationality]]
+[[recognition heuristic]]
 
 # Notes
-A category of [[heuristics]] that include the [[recognition heuristic]].
+The [[recognition heuristic]] falls under the category of "ignorance-based reasoning"
 
 # Resources
 **Papers**

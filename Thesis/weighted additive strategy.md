@@ -3,10 +3,13 @@
 [[strategy selection]]
 [[bounded rationality]]
 [[compensatory strategy]]
+[[rational preference]]
+
 # Notes
 Weights features by their validities, and decides for the option with the larger sum of weighted feature
 - combines information from multiple sources
 - can be considered a [[heuristics|heuristic]] form of [[decision making]] as it ignores potential interactions between features
+- traditional gold standard for [[rational preference]]
 
 [[compensatory strategy|Compensatory strategy]]
 

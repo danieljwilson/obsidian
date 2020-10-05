@@ -1,22 +1,22 @@
-# Info
-**Title**: 
-**Journal**: 
-**Year**:
-**Authors**:
+	# Info
+	**Title**: 
+	**Journal**: 
+	**Year**:
+	**Authors**:
 
-**Link**: 
-**Tags**: #paper
-**Rating**:
+	**Link**: 
+	**Tags**: #paper
+	**Rating**:
 
-**Connections**:
-
-
-
-# Notes
-## Summary
+	**Connections**:
 
 
-## Thoughts
+
+	# Notes
+	## Summary
 
 
-# Resources
+	## Thoughts
+
+
+	# Resources
