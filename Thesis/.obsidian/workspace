@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "social rationality.md",
+            "file": "Stanovitch_KE_2013_Why humans are (sometimes) less rational than other animals.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "social rationality.md",
+            "file": "Stanovitch_KE_2013_Why humans are (sometimes) less rational than other animals.md",
             "mode": "preview"
           }
         },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social rationality.md"
+                "file": "Stanovitch_KE_2013_Why humans are (sometimes) less rational than other animals.md"
               }
             }
           },
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "social rationality.md",
-    "ecological rationality.md",
-    "bounded rationality.md",
-    "Todd_PM_2000_Précis of Simple heuristics that make us smart.md",
-    "adaptive toolbox.md",
-    "list of heuristics.md",
-    "anchoring and adjustment heuristic.md",
-    "availability heuristic.md",
-    "representativeness heuristic.md",
-    "QuickEst heuristic.md"
+    "Stanovitch_KE_2013_Why humans are (sometimes) less rational than other animals.md",
+    "second-order preference.md",
+    "expressive rationality.md",
+    "descriptive and procedural invariance axiom.md",
+    "axioms of rational choice.md",
+    "violation of the axioms of rational choice.md",
+    "reduction of compound lotteries axiom.md",
+    "independance of irrelevant alternatives axiom.md",
+    "utility theory.md",
+    "Allais paradox.md"
   ]
 }

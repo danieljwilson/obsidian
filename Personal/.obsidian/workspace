@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-10-05.md",
-            "mode": "source"
+            "file": "Conda.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-10-05.md"
+                "file": "Conda.md"
               }
             }
           }
@@ -99,6 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Conda.md",
+    "Journal/2020-10-06.md",
     "Journal/2020-10-05.md",
     "Journal/2020-10-02.md",
     "Journal/2020-10-01.md",

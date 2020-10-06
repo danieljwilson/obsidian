@@ -5,8 +5,11 @@
 [[exploratory experimentation]]
 [[multicollinearity]]
 [[factor loadings]]
+[[factor analysis]]
 
 # Notes
+Designed to uncover relationships between [[manifest variables]] and factors ([[latent variables]] or [[construct|constructs]]) without any prior assumptions.
+
 - If there are only a few items then you could consider just using a [[correlation matrix]]...for example in the image below we can see that the first two and last three items "move" together...
 ![[correlation_matrix.png]]
 - factor analysis can deal with many **items**...correlation analysis on steroids

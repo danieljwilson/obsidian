@@ -14,3 +14,6 @@
 		- **NB** issue of mapping between constructs and tasks
 
 # Resources
+- SOBC [Measures](https://scienceofbehaviorchange.org/measures/
+- [Cognition](https://www.cognition.run/): Run experiments online
+- [jsPsych](https://www.jspsych.org/): Code experiments to run online
