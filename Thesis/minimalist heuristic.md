@@ -1,5 +1,5 @@
 [[heuristics]]
-[[cognitive bias]]
+[[cognitive biases]]
 [[decision making]]
 [[strategy selection]]
 [[one good reason heuristic]]

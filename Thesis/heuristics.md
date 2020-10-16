@@ -6,11 +6,18 @@
 [[optimal stopping point]]
 [[optimality]]
 [[fast and frugal heuristics]]
+[[subjective expected utility theory]]
 
 # Notes
 **Simple rules** to make **smart choices quickly** with a minimum of information by exploiting the way information is structured in particular environments.
 
-Greek origin, meaning “serving to find out or discover.”
+- Based on simple principles of [[information processing]].
+- Often consider only a **subset of available information**.
+	- ignoring some (noisy) information enables faster and potentially more accurate decisions
+- Greek origin, meaning “serving to find out or discover.”
+- **Alternative to classical approaches** of [[expected utiliity theory]] and [[subjective expected utility theory]].
+- Have been pointed to as the cause of violations of the [[axioms of rational choice]].
+- [[system 1]] in [[dual-process model]]
 
 **Building Blocks**:
 1. information search
@@ -35,3 +42,5 @@ Parpart et al. (2018) showed that [[heuristics]] can emerge from [[Bayesian infe
 **Papers**
 - Gigerenzer and Todd 1999
 - [[Todd_PM_2000_Précis of Simple heuristics that make us smart]]
+- [[Hertwig_R_2019 - Taming Uncertainty]]
+- [[Stanovich_KE_2008_On the Relative Independence of Thinking Biases and Cognitive Ability]]

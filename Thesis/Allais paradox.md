@@ -8,6 +8,7 @@
 [[rational behavior]]
 [[axioms of rational choice]]
 [[violation of the axioms of rational choice]]
+[[Thaler problem]]
 
 # Notes
 Consists of two choice problems:

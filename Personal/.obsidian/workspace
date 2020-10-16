@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "da1429af9f312134",
+        "id": "afa32dc90db716b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/2020-10-16.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "87d5d847006adbf7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conda.md",
+            "file": "Journal/2020-10-16.md",
             "mode": "preview"
           }
         }
@@ -73,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conda.md"
+                "file": "Journal/2020-10-16.md"
               }
             }
           }
@@ -99,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-10-16.md",
+    "promo codes.md",
+    "Journal/2020-10-15.md",
     "Conda.md",
+    "Journal/2020-10-09.md",
+    "Journal/2020-10-08.md",
+    "Journal/2020-10-07.md",
     "Journal/2020-10-06.md",
     "Journal/2020-10-05.md",
-    "Journal/2020-10-02.md",
-    "Journal/2020-10-01.md",
-    "Journal/2020-09-30.md",
-    "Journal/2020-09-29.md",
-    "Gifts.md",
-    "Journal/2020-09-28.md",
-    "Journal/2020-09-25.md"
+    "Journal/2020-10-02.md"
   ]
 }

@@ -13,3 +13,7 @@
 
 > ...achieved some notoriety, tenure, economic security and the like by engaging, to speak bluntly, in a bunch of nothing
 > - Paul Meehl on his career (P. E. Meehl, 1990b, p. 230)
+
+> Prediction is very difficult, especially about the future.
+> - Niels Bohr
+

@@ -23,8 +23,12 @@ Assumption is that [[evolution]] would lead to the exploitation of informative e
 3. **[[j-shaped distribution]]**: [[QuickEst heuristic]] performs well when there are many small values and few high values
 4. **decreasing populations**: if set of alternatives is decreasing over time (e.g. mating pool) then [[satisficing heuristics]] will outperform rules that sample many alternatives
 
+**Example**
+- The [[recognition heuristic]] exploits [[environment structure]].
+
 
 # Resources
 **Papers**
 - [[Todd_PM_2000_Précis of Simple heuristics that make us smart]]
-- 
+- [[Hertwig_R_2019 - Taming Uncertainty]]
+- D.  G.  Goldstein  &  Gigerenzer,  2002

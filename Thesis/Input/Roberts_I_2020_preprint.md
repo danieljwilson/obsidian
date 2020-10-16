@@ -6,11 +6,11 @@
 **Tags** #draft #labmeeting #paper
 
 **Connections**:
-* [[dual system]]
-* [[time pressure]]
-* [[framing effect]]
-* [[risky choice]]
-* [[Ian D. Roberts]]
+-  [[dual-process model]]
+- [[time pressure]]
+- [[framing effect]]
+- [[risky choice]]
+- [[Ian D. Roberts]]
 
 
 # Notes
@@ -20,8 +20,7 @@
 >people who found evidence that that processing follows a "system 1 -> system 2" pattern, might just be observing sequential patterns of attention
 
 * time pressure increases the "framing" effect (at least for risky monetary choices)
-	* **idea**: [[ddm]], for example, dominated early by system 1, which in turn is sensitive to the framing effect
-
+* **idea**: [[ddm]], for example, dominated early by system 1, which in turn is sensitive to the framing effect
 * Ian postulates that this rests on two (uncertain) assumption:
 	* **ONE**: all information is processed simultaneously
 	* **TWO**: does not account for a possible change in strategy by the decision maker 

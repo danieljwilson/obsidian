@@ -44,8 +44,10 @@ Idea that freedom from constraints afforded by abundance of our current world al
 - means we can feel strangely alienated from our own choices...i.e. upset with ourselves for choosing to do/not do something...
 
 ## Thoughts
-- this seems really just a basic problem of [[decision environment]], no?
+- this seems really just a basic problem of [[decision environment]], no? And the mismatch between the environments in which our heuristics developed and our current day environments...
 - if you put non-human animals in very artificial settings could you not get them to make non-utility maximizing choices? *e.g. the rat who starved to death while stimulating the pleasure center's of its brain*
 - I think that the conflict/gap between [[first-order preference]] and [[second-order preference]] is getting close to the gap that I am interested in investigating.
 
 # Resources
+**Papers**
+- [[Stanovich_KE_2008_On the Relative Independence of Thinking Biases and Cognitive Ability]]

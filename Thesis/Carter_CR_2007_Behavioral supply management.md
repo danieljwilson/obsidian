@@ -9,7 +9,7 @@
 **Rating**:
 
 **Connections**:
-[[cognitive bias]]
+[[cognitive biases]]
 [[decision making]]
 [[clustering]]
 [[taxonomy]]

@@ -1,4 +1,10 @@
-[[cognitive bias]]
+[[bounded rationality]]
+[[sub-optimal choice]]
+[[decision making]]
+[[thesis]]
+[[heuristics]]
+[[cognitive biases]]
+[[list of cognitive biases]]
 [[thesis-bias]]
 [[cognitive bias list]]
 
