@@ -12,11 +12,15 @@
 [[model-free]]
 [[model-based]]
 [[modeling]]
+[[instrumental conditioning]]
+[[goal directed behavior]]
+[[habitual behavior]]
 
 # Notes
 ## Summary
 References [[dual-process model]] - suggests that the two decision making systems "reside" in the [[basal ganglia]]...
 
+[[action -> outcome]]
 
 ## Thoughts
 

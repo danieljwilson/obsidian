@@ -1,4 +1,5 @@
-
+[[machine learning]]
+[[algorithms]]
 
 # Notes
 

@@ -1,4 +1,3 @@
-
 [[modeling]]
 [[machine learning]]
 [[neuroscience]]

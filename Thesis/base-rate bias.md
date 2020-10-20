@@ -1,3 +1,4 @@
+[[base rates]]
 [[bounded rationality]]
 [[sub-optimal choice]]
 [[decision making]]

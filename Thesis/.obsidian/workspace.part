@@ -10,59 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thesis ideas.md",
+            "file": "classical conditioning.md",
             "mode": "source"
           }
         },
-        "group": "3c8ea2cffb5e8a1b"
+        "group": "69cdad08ee240fe3"
       },
       {
-        "id": "b6fe383ee6453cdc",
-        "type": "split",
-        "children": [
-          {
-            "id": "37451bdbdef49fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thesis ideas.md",
-                "mode": "preview"
-              }
-            },
-            "group": "3c8ea2cffb5e8a1b"
-          },
-          {
-            "id": "765f80d117e372a7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "thesis ideas.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1.00239049145299,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            }
+        "id": "fb94516034ba2489",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "classical conditioning.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "69cdad08ee240fe3"
       }
     ],
     "direction": "vertical"
@@ -101,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thesis ideas.md"
+                "file": "classical conditioning.md"
               }
             }
           },
@@ -142,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "thesis ideas.md",
-    "choice overload bias.md",
-    "default bias.md",
-    "list of cognitive biases.md",
-    "cognitive biases.md",
-    "Dunning-Kruger effect.md",
-    "conjunction bias.md",
-    "choice overload.md",
-    "status quo bias.md",
-    "cognitive dissonance.md"
+    "classical conditioning.md",
+    "behaviorism.md",
+    "instrumental conditioning.md",
+    "reinforcement learning.md",
+    "Pasted image 20201016092351.png",
+    "Drummond_N_2020_Model-based decision making and model-free learning.md",
+    "basal ganglia.md",
+    "Drummond_N_2020_.md",
+    "Input/Roberts_I_2020_preprint.md",
+    "Stanovich_KE_2008_On the Relative Independence of Thinking Biases and Cognitive Ability.md"
   ]
 }

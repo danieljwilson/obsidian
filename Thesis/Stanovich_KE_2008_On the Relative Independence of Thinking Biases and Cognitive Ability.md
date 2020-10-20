@@ -1,4 +1,4 @@
-	# Info
+# Info
 **Title**: On the Relative Independence of Thinking Biases and Cognitive Ability
 **Journal**: Journal of Personality and Social Psychology
 **Year**: 2008
