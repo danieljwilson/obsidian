@@ -43,5 +43,6 @@
     ]
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/Attachments"
+  "attachmentFolderPath": "/Attachments",
+  "enabledPlugins": []
 }

@@ -4,65 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "9fd0ccc2a6744bcd",
+        "id": "23bd0b644170049d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thesis ideas.md",
+            "file": "behavior graph.md",
             "mode": "source"
           }
         },
-        "group": "3c8ea2cffb5e8a1b"
+        "group": "176bff13ff2d96f1"
       },
       {
-        "id": "b6fe383ee6453cdc",
-        "type": "split",
-        "children": [
-          {
-            "id": "37451bdbdef49fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thesis ideas.md",
-                "mode": "preview"
-              }
-            },
-            "group": "3c8ea2cffb5e8a1b"
-          },
-          {
-            "id": "765f80d117e372a7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "thesis ideas.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1.00239049145299,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            }
+        "id": "29031bbbe368abb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "behavior graph.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "176bff13ff2d96f1"
       }
     ],
     "direction": "vertical"
@@ -89,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dual system"
+                "query": "model"
               }
             }
           },
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thesis ideas.md"
+                "file": "behavior graph.md"
               }
             }
           },
@@ -142,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "thesis ideas.md",
-    "choice overload bias.md",
-    "default bias.md",
-    "list of cognitive biases.md",
-    "cognitive biases.md",
-    "Dunning-Kruger effect.md",
-    "conjunction bias.md",
-    "choice overload.md",
-    "status quo bias.md",
-    "cognitive dissonance.md"
+    "behavior graph.md",
+    "Drummond_N_2020_Model-based decision making and model-free learning.md",
+    "lab meetings.md",
+    "30-10-2020-Ian.md",
+    "cognitive profile.md",
+    "motivation.md",
+    "thesis.md",
+    "thesis book.md",
+    "thesis-intervention.md",
+    "thesis book toc.md"
   ]
 }

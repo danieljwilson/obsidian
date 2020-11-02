@@ -61,6 +61,11 @@ A [[between-subjects design]] would be a stricter evaluation, and have higher [[
 
 **Experiment 7: Myside Bias**
 
+**Experiment 8: Heuristics and Biases That Do Associate With Cognitive Ability**
+- [[probabilistic reasoning]]: denominator neglect
+- [[probabilistic reasoning]]: probability matching vs. maximizing
+- [[belief bias]]: 
+
 ## Thoughts
 
 

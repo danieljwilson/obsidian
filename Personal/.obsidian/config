@@ -46,5 +46,6 @@
     ]
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "enabledPlugins": []
 }

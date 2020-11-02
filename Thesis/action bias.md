@@ -9,7 +9,9 @@
 [[list of cognitive biases]]
 
 # Notes
-Pushes us to act in order to feel good.
+Tendency to favor action over inaction.
+- often this is beneficial but it can become a default response, even without solid rationale to support it.
+- Pushes us to act in order to feel good.
 - people have an impulse to act in order to gain a sense of control over a situation
 - often the result is that we act improperly/sub-optimally, or at least to act before the right time comes
 - leads to develop solutions when we have not yet defined the problem well
