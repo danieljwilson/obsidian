@@ -4,6 +4,9 @@
 
 
 # Notes
+### In Progress
+- [[Simmons_JP_2011_False-Positive Psychology]]
+- [[Aczel_B_2015_Measuring Individual Differences in Decision Biases]]
 
 # Resources
 ### Tools

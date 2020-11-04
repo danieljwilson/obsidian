@@ -9,9 +9,19 @@ Should we think of it in terms of the levels that Stanovich illustrates in his 2
 
 **Mindware**
 - cognitive capacity
+
 **Detection**
 - contextual sensitivity
+
 **Sustained inhibition**
 - self-control/willpower
 
 Many of the biases seem to be statistical or logical errors.
+
+## Systems Theory
+[[systems theory|Systems Theory]] could be an interesting framing.
+- Inputs -> Outputs
+	- Outputs are either positive or negative. Like with a steam engine could have a model of individual "efficiency". How much of your time/energy/behavior is progressing you toward your goals/[[second-order preference]]?
+
+## Intervention Ideas
+> Creating an environment where one may not need to practice effortful impulse inhibition (Fujita, 2011), but rather avoiding situations where that self-control will be tested is highly beneficial. This type of decision making allows for distal goals to be in focus, rather than more immediate goals.

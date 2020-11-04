@@ -5,6 +5,8 @@
 [[axioms of rational choice]]
 [[violation of the axioms of rational choice]]
 [[decision environment]]
+[[willpower]]
+[[self control]]
 
 # Notes
 A [[preference]] for a particular set of [[first-order preference|first-order preferences]].
@@ -12,10 +14,13 @@ A [[preference]] for a particular set of [[first-order preference|first-order pr
 The [[second-order preference]] can compete with the [[first-order preference]].
 
 - also known as [[strong evaluation]] or [[considered preferences]]
-- maintaining a model of an idealised preference structure seems unique to humans
+- maintaining a model of an idealized preference structure seems unique to humans
 
 **Example**
 "I would prefer to prefer not to smoke".
+
+### Thoughts
+It seems to be related to self-image. Our second order preference is the ideal of ourselves... 
 
 # Resources
 **Papers**

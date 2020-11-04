@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "behavior graph.md",
+            "file": "thesis ideas.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "behavior graph.md",
+            "file": "thesis ideas.md",
             "mode": "preview"
           }
         },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "behavior graph.md"
+                "file": "thesis ideas.md"
               }
             }
           },
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "behavior graph.md",
-    "Drummond_N_2020_Model-based decision making and model-free learning.md",
-    "lab meetings.md",
-    "30-10-2020-Ian.md",
-    "cognitive profile.md",
-    "motivation.md",
-    "thesis.md",
-    "thesis book.md",
-    "thesis-intervention.md",
-    "thesis book toc.md"
+    "thesis ideas.md",
+    "self control.md",
+    "willpower.md",
+    "second-order preference.md",
+    "first-order preference.md",
+    "systems theory.md",
+    "complex systems.md",
+    "criterion validity.md",
+    "nonlinear systems.md",
+    "nonlinearity.md"
   ]
 }
