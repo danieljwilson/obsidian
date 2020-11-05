@@ -37,6 +37,9 @@ Participants getting Form B read the following:
 **Results**
 Basically it is **logically** more likely that Linda *is a teller* than a *bank teller and active in the feminist movement* but people tend to be biased toward the latter.
 
+**Why?**
+Standard explanation is that people apply the [[representativeness heuristic]].
+
 # Resources
 **Papers**
 - Tversky and Kahneman, 1983

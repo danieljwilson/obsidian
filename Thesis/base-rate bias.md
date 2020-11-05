@@ -8,6 +8,8 @@
 
 # Notes
 
+Also known as [[base-rate neglect]].
+
 **Example**
 [[Daniel Kahneman]] and [[Amos Tversky]] lawyer/engineer problem.
 

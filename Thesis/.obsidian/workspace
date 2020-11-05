@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thesis ideas.md",
+            "file": "notes w cendri.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thesis ideas.md",
+            "file": "notes w cendri.md",
             "mode": "preview"
           }
         },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thesis ideas.md"
+                "file": "notes w cendri.md"
               }
             }
           },
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "thesis ideas.md",
-    "self control.md",
-    "willpower.md",
-    "second-order preference.md",
-    "first-order preference.md",
-    "systems theory.md",
-    "complex systems.md",
-    "criterion validity.md",
-    "nonlinear systems.md",
-    "nonlinearity.md"
+    "notes w cendri.md",
+    "mindware.md",
+    "Untitled.md",
+    "Lawson_AM_2020_Comparing fast thinking and slow thinking.md",
+    "intuitive decision making.md",
+    "dual-process model.md",
+    "rule based reasoning.md",
+    "habitual behavior.md",
+    "internal behavioral intervention.md",
+    "behavioral intervention.md"
   ]
 }

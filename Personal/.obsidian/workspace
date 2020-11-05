@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-11-03.md",
+            "file": "Conda.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-11-03.md",
+            "file": "Conda.md",
             "mode": "preview"
           }
         },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-11-03.md"
+                "file": "Conda.md"
               }
             }
           }
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Conda.md",
+    "Journal/2020-11-05.md",
+    "Journal/2020-11-04.md",
     "Journal/2020-11-03.md",
     "Journal/2020-11-02.md",
     "Journal/2020-10-30.md",
     "Journal/2020-10-29.md",
     "Gifts Presents.md",
     "Journal/2020-10-23.md",
-    "Journal/2020-10-22.md",
-    "Journal/2020-10-21.md",
-    "Conda.md",
-    "Journal/2020-10-20.md"
+    "Journal/2020-10-22.md"
   ]
 }

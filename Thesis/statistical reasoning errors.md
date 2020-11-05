@@ -1,0 +1,6 @@
+[[statistical reasoning]]
+
+# Notes
+
+
+# Resources

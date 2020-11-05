@@ -36,7 +36,7 @@
 [[Overconfidence]]
 [[Hindsight bias]]
 [[Inefficient use of decision rules]]
-[[Statistical reasoning errors]]
+[[statistical reasoning errors]]
 [[motivated reasoning]]
 
 
