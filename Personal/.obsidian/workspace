@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "afa32dc90db716b0",
+        "id": "1c504aaa5369b5d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conda.md",
+            "file": "Journal/2020-11-11.md",
             "mode": "source"
           }
         },
-        "group": "2ef2e88c7f6e4250"
+        "group": "036422938cb459a9"
       },
       {
-        "id": "1c504aaa5369b5d1",
+        "id": "bc9924bfd61dbf7a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conda.md",
+            "file": "Journal/2020-11-11.md",
             "mode": "preview"
           }
         },
-        "group": "2ef2e88c7f6e4250"
+        "group": "036422938cb459a9"
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conda.md"
+                "file": "Journal/2020-11-11.md"
               }
             }
           }
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-11-11.md",
+    "Gottman 30 day challenge.md",
+    "Journal/2020-11-10.md",
+    "Journal/2020-11-09.md",
     "Conda.md",
-    "Journal/2020-11-05.md",
-    "Journal/2020-11-04.md",
-    "Journal/2020-11-03.md",
-    "Journal/2020-11-02.md",
-    "Journal/2020-10-30.md",
-    "Journal/2020-10-29.md",
     "Gifts Presents.md",
-    "Journal/2020-10-23.md",
-    "Journal/2020-10-22.md"
+    "Journal/2020-11-06.md",
+    "Journal/2020-11-06 [conflicted 2].md",
+    "Journal/2020-11-06 [conflicted].md",
+    "Journal/2020-11-05.md"
   ]
 }

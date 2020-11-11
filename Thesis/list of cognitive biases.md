@@ -9,7 +9,7 @@
 - [[absolute vs relative savings bias]]
 - [[action bias]]
 - [[anchoring bias]]
-- [[base-rate bias]]
+- [[base-rate neglect bias]]
 - [[belief bias]]
 - [[certainty bias]]
 - [[choice overload bias]]
@@ -33,7 +33,7 @@
 - [[zero risk bias]]
 
 
-[[Overconfidence]]
+[[overconfidence]]
 [[Hindsight bias]]
 [[Inefficient use of decision rules]]
 [[statistical reasoning errors]]

@@ -5,6 +5,9 @@
 [[heuristics]]
 
 # Notes
+Idea as in [[Lawson_AM_2020_Comparing fast thinking and slow thinking]] that successful reasoners **retrieve** and **apply** abstract, necessary rules that they **already know** to some degree.
+
+
 Three components (in [[artificial intelligence]]):
 1. Rules
 2. Data base

@@ -1,3 +1,5 @@
+[[Cendri A. Hutcherson]]
+
 # 04-11-2020
 PANAS trait version
 
@@ -29,6 +31,12 @@ Perhaps worth considering constructing a measure if one doesn't exist.
 
 # 11-11-2020
 
+## Talking Points
+- [Apple Investigator Support Program](https://www.researchandcare.org/resources/investigator-support-program/)
+
+- [Whoop](https://www.whoop.com/)
+
+- Friday presentation
 
 
 

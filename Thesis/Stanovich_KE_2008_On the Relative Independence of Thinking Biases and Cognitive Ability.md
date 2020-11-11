@@ -39,7 +39,7 @@ A [[between-subjects design]] would be a stricter evaluation, and have higher [[
 **Note:** Used SAT scores to assess [[cognitive ability]].
 
 **Experiment 1: Classic Heuristics and Biases Effects**
-- [[base-rate bias|Base-rate problem]]
+- [[base-rate neglect bias|Base-rate problem]]
 - [[framing effect bias|Framing problem]] (Asian disease)
 - [[conjunction bias]]
 - [[outcome bias]]
@@ -64,8 +64,14 @@ A [[between-subjects design]] would be a stricter evaluation, and have higher [[
 **Experiment 8: Heuristics and Biases That Do Associate With Cognitive Ability**
 - [[probabilistic reasoning]]: denominator neglect
 - [[probabilistic reasoning]]: probability matching vs. maximizing
-- [[belief bias]]: 
+- [[belief bias]]: syllogisms
+- [[belief bias]]: deductive certainty of modus ponens
+- [[four-card selection task]]
 
+**Takeaways**
+- many biases from the heuristics and biases literature are essentially independent of [[cognitive ability]]
+
+ 
 ## Thoughts
 
 

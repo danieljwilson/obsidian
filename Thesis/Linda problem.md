@@ -1,4 +1,3 @@
-
 [[bounded rationality]]
 [[sub-optimal choice]]
 [[decision making]]
@@ -6,6 +5,7 @@
 [[heuristics]]
 [[cognitive biases]]
 [[conjunction bias]]
+[[Sally problem]]
 
 # Notes
 A classic [[conjunction bias]] test based on the following text:

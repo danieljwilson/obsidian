@@ -1,5 +1,6 @@
 [[cognitive ability]]
 [[belief bias]]
+[[need for cognition scale]]
 
 # Notes
 Refers to the intrinsic motivation to process information, which has a crucial influence on the reasoning process.

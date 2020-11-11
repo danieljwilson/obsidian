@@ -4,12 +4,12 @@
 [[experimentation]]
 [[criterion validity]]
 [[construct validity]]
-[[face validity]]
 [[measure validity]]
 [[measure reliability]]
 [[measures]]
 [[content validity]]
 [[psychological testing]]
+[[face validity]]
 
 # Notes
 [[measure reliability]] includes:

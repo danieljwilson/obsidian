@@ -13,5 +13,6 @@ I think that [[intuitive decision making]] is quite aligned with [[heuristics]].
 # Resources
 **Papers**
 - De Neys & Pennycook, 2019
-- hompson, Pennycook, Trippas & Evans, 2018
+- Thompson, Pennycook, Trippas & Evans, 2018
 - Raoelison, Thompson & De Neys, 2020
+

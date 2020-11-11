@@ -1,6 +1,7 @@
 [[cognitive capital]]
 [[cognitive ability]]
 [[decision making]]
+[[mindware gaps]]
 
 # Notes
 The rules, knowledge, and thinking styles that decision makers bring to a problem.
@@ -27,3 +28,5 @@ In [[Keith E. Stanovich]] definition he refers to the ==propensity to do so== re
 - Perkins, 1995
 - Stanovich & West, 2008
 - Camerer & Hogarth, 1999
+- [Mindware instantiation as a predictor of logical intuitions in the Cognitive Reflection Test](https://psyarxiv.com/rxt4z/), DOI: 10.31234/osf.io/rxt4z
+- Predicting individual differences in conflict detection and bias susceptibility during reasoning

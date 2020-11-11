@@ -165,3 +165,46 @@ I am slightly more attuned to tone and engagement than previously. And I try and
 # 22
 ## Time to Celebrate!
 
+# 23
+## Big Dreams
+**What are some of the dreams you have for your life?**
+- Raise neat kids
+	- be creative with parenting...
+	- facilitate their interests in unique ways
+- Get to the point in our relationship where it feels like there are no barriers due to our own hangups and lack of skill in communicating
+- Build a home from scratch
+- Develop a practice in which I interact with a broad and/or dedicated public
+- Write a book
+- Earn enough money at some point to do some weird/silly things
+- Make a music album
+- Get really solid in stats
+- Have no health issues related to my heart and more generally age really healthfully
+- Have a few meaningful trips with both parents
+- Get good sleep
+- Spend some time surfing
+- Learn Spanish and Chinese well
+- Find good communities to be part of in multiple locations
+- Make space for some weird personal projects for both Donna and I
+- Sail/boat across an ocean
+- Get better at dancing and singing
+
+**When have you felt the most fulfilled in your life?**
+- Starting school at McMaster
+- Starting school in Sweden
+- Starting my time in Berlin
+- Starting out in NYC
+- Editing the first documentary for FRONTLINE
+- The bike race across Europe and the first summer of bike racing
+- The art project with Sebastian in Krakow
+- The summer art project with Eva in Montreal
+- The trip to Sweden for minutiae
+
+**What do you want to be remembered for when you’re gone?**
+- Creative outlook on and implementation of life
+	- Including some "works" that will continue to exist
+- Give my kids confidence and facilitate them developing skills to pursue their interests deeply
+- Developing/supporting a community of some sort
+
+==My partner and I support each other in our dreams. One way we support each other is==
+- I feel like Donna is willing to be flexible and supportive when I have something that I want to do, even if it isn't exactly a "dream"...I appreciate this because part of my larger dream is to live a life that embraces creativity and spontaneity and just trying to find ways of living that are good and interesting even if they are non-status quo
+- I try to support Donna by communicating my interest in her future plans and also by communicating my confidence in her abilities. I know that I have a tendency to enmesh my own dreams in others plans when I am discussing their futures and I also do this with Donna which is not always productive but which I think that she is becoming more tolerant of.

@@ -6,7 +6,7 @@
 [[categorization by elimination heuristic]]
 [[elimination heuristic]]
 [[Linda problem]]
-[[base-rate bias]]
+[[base-rate neglect bias]]
 [[Daniel Kahneman]]
 [[Amos Tversky]]
 

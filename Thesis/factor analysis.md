@@ -61,6 +61,10 @@ $$\mathbf{x} = \mathbf{Af} + \mathbf{u}$$
 **Viz**
 ![[factor_analysis.png]]
 
+You can perform a [[factor analysis adequacy test]] to evaluate the "factorability" of the data...two methods:
+1. [[Bartlett's test of sphericity]]
+2. [[Kaiser-Meyer-Olkin test]]
+
 # Resources
 **Tutorials**
 - [Datacamp](https://www.datacamp.com/community/tutorials/introduction-factor-analysis)

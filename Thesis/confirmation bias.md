@@ -1,4 +1,8 @@
 [[belief bias]]
-[[mostivated reasoning]]
+[[motivated reasoning]]
+
+# Notes
+
+# Resources
 
 

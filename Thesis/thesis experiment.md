@@ -13,6 +13,11 @@
 - [[thesis experiment psychological tasks|Psychological tasks]]
 		- **NB** issue of mapping between constructs and tasks
 
+
+[[experience sampling|Experience sampling]]
+- [[iPhone data collection]]
+
+
 # Resources
 - SOBC [Measures](https://scienceofbehaviorchange.org/measures/
 - [Cognition](https://www.cognition.run/): Run experiments online
