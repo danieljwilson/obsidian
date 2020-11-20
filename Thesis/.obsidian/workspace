@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes from cendri weekly meeting.md",
+                "file": "unit circle.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes from cendri weekly meeting.md",
+                    "file": "unit circle.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "notes from cendri weekly meeting.md",
+                    "file": "unit circle.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -97,7 +97,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model"
+                "query": "model",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -130,7 +135,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes from cendri weekly meeting.md"
+                "file": "unit circle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes from cendri weekly meeting.md"
+                "file": "unit circle.md"
               }
             }
           }
@@ -160,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes from cendri weekly meeting.md",
-    "Apple HealthKit.md",
-    "lab meetings - Cendri Hutcherson.md",
-    "Apple CareKit.md",
-    "Apple ResearchKit.md",
+    "unit circle.md",
+    "self-discrepancy theory.md",
     "intention-behavior gap.md",
-    "goal intentions.md",
-    "behavioral intervention.md",
-    "heuristic override detection.md",
-    "judgment error of application.md"
+    "notes from cendri weekly meeting.md",
+    "lab meetings - Cendri Hutcherson.md",
+    "Apple ResearchKit.md",
+    "Apple CareKit.md",
+    "intention-behavior gap measure.md",
+    "self-efficacy.md",
+    "self confidence.md"
   ]
 }

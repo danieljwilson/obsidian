@@ -4,6 +4,8 @@
 [[second-order preference]]
 [[behavior]]
 [[goal intentions]]
+[[intention-behavior gap measure]]
+[[self-discrepancy theory]]
 
 # Notes
 Gap that occurs when the values (personal and cultural) or attitudes of an individual do not correlate to their actions.

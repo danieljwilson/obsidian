@@ -1,6 +1,6 @@
 [[trigonometry]]
 [[unit circle]]
-[[standard angle]]
+[[standard position]]
 
 # Notes
 - The acute angle between the terminal arm/terminal side and the x-axis. 

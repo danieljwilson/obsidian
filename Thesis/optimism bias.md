@@ -31,5 +31,6 @@ Downstream effects on many things, such as:
 
 # Resources
 **Papers**
+- Weinstein, 1980
 - Heifetz, A., & Spiegel, Y. (2000). On the Evolutionary Emergence of Optimism (SSRN Scholarly Paper ID 247355). Social Science Research Network. https://doi.org/10.2139/ssrn.247355
 - Sharot, T. (2011). The optimism bias. Current Biology, 21(23), R941–R945. https://doi.org/10.1016/j.cub.2011.10.030

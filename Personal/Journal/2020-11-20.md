@@ -1,0 +1,29 @@
+### [[DW]]
+Did well
+
+### [[CI]]
+Could improve
+
+### [[GMD]]
+Good moment with Donna
+
+### [[IMD]]
+Improvable moment with Donna
+
+### [[NK]]
+Neat kids
+
+### [[RT]]
+Random thought
+
+---
+- [ ] Journal
+- [ ] Typing practice
+- [ ] Stretch
+- [ ] Read 10
+- [ ] Sing practice
+- [ ] Activate glutes
+- [ ] Enter Weight/Rate/Type
+---
+
+[Rating/Weight/Typing](https://docs.google.com/spreadsheets/d/1p6cinTqipnxyiSCgPBAWp2cAHA5q6P0NL58bNCxedCY/edit#gid=0)
