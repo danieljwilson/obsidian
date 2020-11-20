@@ -1,3 +1,4 @@
+[[goals]]
 [[goal setting]]
 [[goal directed behavior]]
 [[first-order preference]]
@@ -6,7 +7,7 @@
 [[intention-behavior gap]]
 [[behavoral intentions]]
 
-# Notes
+	# Notes
 People's self-instructions to achieve desired outcomes
 
 - intentions predict behavior, according to numerous correlational studies

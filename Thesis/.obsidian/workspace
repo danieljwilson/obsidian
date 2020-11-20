@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit circle.md",
+                "file": "chronic ideal goals.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "unit circle.md",
+                    "file": "chronic ideal goals.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "unit circle.md",
+                    "file": "chronic ideal goals.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unit circle.md",
+                "file": "chronic ideal goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unit circle.md"
+                "file": "chronic ideal goals.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "chronic ideal goals.md",
+    "ought goals.md",
+    "goals.md",
+    "goal intentions.md",
     "unit circle.md",
     "self-discrepancy theory.md",
     "intention-behavior gap.md",
     "notes from cendri weekly meeting.md",
     "lab meetings - Cendri Hutcherson.md",
-    "Apple ResearchKit.md",
-    "Apple CareKit.md",
-    "intention-behavior gap measure.md",
-    "self-efficacy.md",
-    "self confidence.md"
+    "Apple ResearchKit.md"
   ]
 }
