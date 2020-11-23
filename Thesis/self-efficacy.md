@@ -18,6 +18,7 @@ Or, simpler, the perception of one's own **ability to reach a goal**.
 - reminds me a bit of [[Carol Dweck]]'s [[growth mindset]]...
 - Does not say anything directly about how that matches reality...
 - A first "derivative" would be to look at the gap between one's personal judgment and reality. 
+- promotes action planning
 # Resources
 Wiki [page](https://en.wikipedia.org/wiki/Self-efficacy)
 

@@ -27,6 +27,9 @@ Final Essay:
 Reflection:
 Comments to peers:
 
+## Nothing
+No submission.
+
 ## Draft
 - improving online learning
 
@@ -34,6 +37,8 @@ Comments to peers:
 - identify theory, hypothesis, methods, IV and DV
 
 >Although all components were addressed, many were addressed superficially and were not explained well. 
+
+>Your summary of the article touched on all required components however many were addressed superficially and were not explained well - for example when you say the dependent variable is the students, what do you mean? 
 
 >The implementation plan was not sufficiently detailed to demonstrate deep thought.
 
@@ -50,6 +55,8 @@ Comments to peers:
 
 > While your reflection showed that you put thought into how to improve your paper, it would have been stronger if you had indicated how you had addressed - or decided not to - each of your peers' feedback.
 
+> There is no indication of which peer suggestions you took or didn't take and why.
+
 
 ## Comments to Peers
 >Repetitive, and not detailed enough. 
@@ -57,3 +64,7 @@ Comments to peers:
 >Where exactly
 
 >You did a good job of thoroughly addressing specific issues in your peers papers along with actionable suggestions. Well done.
+
+> You need to provide specific examples of where improvements can be made as well as what those improvements might be.
+
+>It was clear that you made an effort in your comments, however many were vague and lacked specific critiques and suggestions.

@@ -25,3 +25,10 @@ Many of the biases seem to be statistical or logical errors.
 
 ## Intervention Ideas
 > Creating an environment where one may not need to practice effortful impulse inhibition (Fujita, 2011), but rather avoiding situations where that self-control will be tested is highly beneficial. This type of decision making allows for distal goals to be in focus, rather than more immediate goals.
+
+## Bringing together Nomothetic and Ideographic
+- [youtube video](https://www.youtube.com/watch?v=eiCSJL5zOng)
+>Can both think about uniqueness of individual and general rules. Clustering, in a sense is trying to do this.
+
+==qualitative + quantitative==
+

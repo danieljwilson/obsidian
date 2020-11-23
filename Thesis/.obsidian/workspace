@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic ideal goals.md",
+                "file": "lab meetings 20-11-2020-Mostafa.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "chronic ideal goals.md",
+                    "file": "lab meetings 20-11-2020-Mostafa.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "chronic ideal goals.md",
+                    "file": "lab meetings 20-11-2020-Mostafa.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronic ideal goals.md",
+                "file": "lab meetings 20-11-2020-Mostafa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chronic ideal goals.md"
+                "file": "lab meetings 20-11-2020-Mostafa.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "lab meetings 20-11-2020-Mostafa.md",
+    "Kalman filter.md",
+    "lab meetings.md",
+    "self-efficacy.md",
+    "thesis ideas.md",
     "chronic ideal goals.md",
     "ought goals.md",
     "goals.md",
     "goal intentions.md",
-    "unit circle.md",
-    "self-discrepancy theory.md",
-    "intention-behavior gap.md",
-    "notes from cendri weekly meeting.md",
-    "lab meetings - Cendri Hutcherson.md",
-    "Apple ResearchKit.md"
+    "unit circle.md"
   ]
 }
