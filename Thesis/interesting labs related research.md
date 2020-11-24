@@ -14,6 +14,8 @@
 
 [The Center for Brains Minds + Machines](https://cbmm.mit.edu/) @ MIT
 
+[Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the Max Planck Institute for Human Development, Berlin, Germany
+
 # People
 - [[Sudeep Bhatia]] @ Penn MindCORE
 

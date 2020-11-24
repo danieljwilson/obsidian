@@ -36,6 +36,7 @@ No submission.
 ## Final Essay
 - identify theory, hypothesis, methods, IV and DV
 
+
 >Although all components were addressed, many were addressed superficially and were not explained well. 
 
 >Your summary of the article touched on all required components however many were addressed superficially and were not explained well - for example when you say the dependent variable is the students, what do you mean? 
@@ -45,6 +46,8 @@ No submission.
 > A clear summary with well identified independent and dependent variables, theory, hypothesis, and methods.
 
 > Your proposed intervention in Ontario schools made a clear connection to the results of the paper and showed true creativity and thought. Well done. 
+
+> The implementation suggested is very scattered - you would be better off focusing on one specific intervention directly related to the study.
 
 ## Final Reflection
 >You said you attempted to []. How did you do this?
@@ -68,3 +71,5 @@ No submission.
 > You need to provide specific examples of where improvements can be made as well as what those improvements might be.
 
 >It was clear that you made an effort in your comments, however many were vague and lacked specific critiques and suggestions.
+
+>It was clear that you made an effort to provide thoughtful comments, however suggestions should prioritize ideas and content over more superficial aspects like sentence structure. 

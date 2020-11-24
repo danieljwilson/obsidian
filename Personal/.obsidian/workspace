@@ -6,10 +6,11 @@
       {
         "id": "1c504aaa5369b5d1",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-11-23.md",
+            "file": "Journal/2020-11-24.md",
             "mode": "source"
           }
         },
@@ -18,11 +19,10 @@
       {
         "id": "bc9924bfd61dbf7a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-11-23.md",
+            "file": "Journal/2020-11-24.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-11-23.md",
+                "file": "Journal/2020-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Journal/2020-11-23.md",
+    "Journal/2020-11-24.md",
     "peerScholar psya01 2020.md",
+    "Journal/2020-11-23.md",
     "ta psya01 2020.md",
     "Journal/2020-11-20.md",
     "Journal/2020-11-19.md",
     "Gifts Presents.md",
     "To Buy.md",
     "Journal/2020-11-18.md",
-    "teaching assistant.md",
-    "Selling Aeroad Bike.md"
+    "teaching assistant.md"
   ]
 }

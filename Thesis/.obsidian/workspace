@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab meetings 20-11-2020-Mostafa.md",
+                "file": "interesting labs related research.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "lab meetings 20-11-2020-Mostafa.md",
+                    "file": "interesting labs related research.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "lab meetings 20-11-2020-Mostafa.md",
+                    "file": "interesting labs related research.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab meetings 20-11-2020-Mostafa.md",
+                "file": "interesting labs related research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab meetings 20-11-2020-Mostafa.md"
+                "file": "interesting labs related research.md"
               }
             }
           }
@@ -170,6 +170,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "interesting labs.md",
     "lab meetings 20-11-2020-Mostafa.md",
     "Kalman filter.md",
     "lab meetings.md",
@@ -178,7 +179,6 @@
     "chronic ideal goals.md",
     "ought goals.md",
     "goals.md",
-    "goal intentions.md",
-    "unit circle.md"
+    "goal intentions.md"
   ]
 }
