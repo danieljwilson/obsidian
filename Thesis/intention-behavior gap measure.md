@@ -5,6 +5,7 @@
 [[second-order preference]]
 [[behavior]]
 [[goal intentions]]
+[[thesis own measures]]
 
 # Notes
 ## Task completion

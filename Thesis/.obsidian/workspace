@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interesting labs related research.md",
+                "file": "intention-behavior gap measure.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "interesting labs related research.md",
+                    "file": "intention-behavior gap measure.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interesting labs related research.md",
+                    "file": "intention-behavior gap measure.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -60,7 +60,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1
+                      "scale": 0.49743860042353083
                     }
                   }
                 },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interesting labs related research.md",
+                "file": "intention-behavior gap measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interesting labs related research.md"
+                "file": "intention-behavior gap measure.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "intention-behavior gap measure.md",
+    "efficacy gap.md",
+    "thesis experiment questionnaires.md",
+    "thesis experiment.md",
+    "thesis.md",
     "interesting labs.md",
     "lab meetings 20-11-2020-Mostafa.md",
     "Kalman filter.md",
     "lab meetings.md",
-    "self-efficacy.md",
-    "thesis ideas.md",
-    "chronic ideal goals.md",
-    "ought goals.md",
-    "goals.md",
-    "goal intentions.md"
+    "self-efficacy.md"
   ]
 }
