@@ -2,6 +2,7 @@
 [[thesis]]
 [[individual differences]]
 [[normative models of decision making]]
+[[thesis experiment psychological tasks]]
 
 # Notes
 Suggested by Cendri:
@@ -14,4 +15,3 @@ Suggested by Cendri:
 - Reference this [paper](chrome-extension://bomfdkbfpdhijjbeoicnfhjbdhncfhig/view.html?mp=OMyHHPmd): Uncovering the structure of self-regulation through data-driven ontology discovery
 - Eisenberg's [list of questionnaires and tasks](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-019-10301-1/MediaObjects/41467_2019_10301_MOESM1_ESM.pdf)
 - Eisenberg's [git repo of tasks](https://github.com/IanEisenberg/expfactory-surveys)
-- 

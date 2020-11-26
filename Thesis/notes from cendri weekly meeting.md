@@ -50,7 +50,42 @@ Wed:
 - non overlapping semi distinct measures
 - timed out
 - apple whoop outreach
-- 
+
+# 11-25-2020
+## Talking Points
+- Has she contacted whoop/apple/oura?
+	- thoughts on the copy?
+
+- Measures
+	- How to cut down?
+	- My new Gap+
+	- Demographic questions?
+
+**To Do**
+- Experience sampling
+- REB
+- Exploring Eisenberg data analysis pipeline
+
+**Upcoming**
+- Grading + Moving
+
+## Notes
+- Add semantic fluency
+	- trying to find reasons
+
+Emotional responsivity
+Emotional regulation
+Food Choice
+Emotional conflict task
+
+Gap+
+- Contact lab about gap ideas
+
+ExpFactory
+
+
+
+
 
 
 

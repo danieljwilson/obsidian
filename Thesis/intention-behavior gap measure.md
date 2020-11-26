@@ -6,12 +6,12 @@
 [[behavior]]
 [[goal intentions]]
 [[thesis own measures]]
+[[thesis experiment]]
 
 # Notes
 ## Task completion
 - When I start a task I complete it
-- If I put my mind toward a goal I will then achieve it
-- I often set goals that I am unable to reach
+
 - I constantly underestimate how much times things will take
 - I overcommit
 - I am often running behind schedule
@@ -24,7 +24,8 @@
 ## Goal setting style
 - I like to set modest goals so that I am not disappointed
 - I break up my goals into small chunks
-
+- If I put my mind toward a goal I will then achieve it
+- I often set goals that I am unable to reach
 - Giving up
 
 ## Gap
@@ -33,5 +34,4 @@
 
 
 # Resources
-
-Implementation intentions questionnaire
+- [Gap+ measure](https://docs.google.com/spreadsheets/d/1E-leHuarg6d-Un_XNyFOO01wqqoyCPZuqyOPHobfb34/edit#gid=0)

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intention-behavior gap measure.md",
+                "file": "notes from cendri weekly meeting.md",
                 "mode": "source"
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intention-behavior gap measure.md",
+                    "file": "notes from cendri weekly meeting.md",
                     "mode": "preview"
                   }
                 },
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intention-behavior gap measure.md",
+                    "file": "notes from cendri weekly meeting.md",
                     "options": {
                       "search": "",
                       "localJumps": 1,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intention-behavior gap measure.md",
+                "file": "notes from cendri weekly meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intention-behavior gap measure.md"
+                "file": "notes from cendri weekly meeting.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes from cendri weekly meeting.md",
+    "experience sampling.md",
+    "thesis experiment.md",
+    "thesis experiment psychological tasks.md",
+    "thesis experiment questionnaires.md",
     "intention-behavior gap measure.md",
     "efficacy gap.md",
-    "thesis experiment questionnaires.md",
-    "thesis experiment.md",
     "thesis.md",
     "interesting labs.md",
-    "lab meetings 20-11-2020-Mostafa.md",
-    "Kalman filter.md",
-    "lab meetings.md",
-    "self-efficacy.md"
+    "lab meetings 20-11-2020-Mostafa.md"
   ]
 }
