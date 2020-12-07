@@ -27,23 +27,16 @@ Final Essay:
 Reflection:
 Comments to peers:
 
-## Nothing
-No submission.
-
-## Draft
-- improving online learning
-
 ## Final Essay
 - identify theory, hypothesis, methods, IV and DV
-
 
 >Although all components were addressed, many were addressed superficially and were not explained well. 
 
 >Your summary of the article touched on all required components however many were addressed superficially and were not explained well - for example when you say the dependent variable is the students, what do you mean? 
 
->The implementation plan was not sufficiently detailed to demonstrate deep thought.
-
 > A clear summary with well identified independent and dependent variables, theory, hypothesis, and methods.
+
+>The implementation plan was not sufficiently detailed to demonstrate deep thought.
 
 > Your proposed intervention in Ontario schools made a clear connection to the results of the paper and showed true creativity and thought. Well done. 
 
@@ -54,7 +47,7 @@ No submission.
 
 >I agree with your peers that [] is not a good approach.
 
->It was clear that you spent time considering and implementing the suggestions of your peers.
+>It was clear that you spent time considering and implementing the suggestions of your peers where deemed appropriate.
 
 > While your reflection showed that you put thought into how to improve your paper, it would have been stronger if you had indicated how you had addressed - or decided not to - each of your peers' feedback.
 
@@ -64,7 +57,7 @@ No submission.
 ## Comments to Peers
 >Repetitive, and not detailed enough. 
 
->Where exactly
+>Your comments to peers were generally thoughtful and helpful, although in a couple of cases your comments focused a bit narrowly on a single paragraph.
 
 >You did a good job of thoroughly addressing specific issues in your peers papers along with actionable suggestions. Well done.
 
