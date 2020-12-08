@@ -6,10 +6,11 @@
       {
         "id": "1c504aaa5369b5d1",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-07.md",
+            "file": "Journal/2020-12-08.md",
             "mode": "source"
           }
         },
@@ -18,12 +19,11 @@
       {
         "id": "bc9924bfd61dbf7a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-07.md",
-            "mode": "preview"
+            "file": "Journal/2020-12-08.md",
+            "mode": "source"
           }
         },
         "group": "036422938cb459a9"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-12-07.md",
+                "file": "Journal/2020-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-12-08.md",
     "Journal/2020-12-07.md",
     "Best of 2020.md",
     "laptop setup.md",
@@ -130,7 +131,6 @@
     "ta psya01 2020.md",
     "Journal/2020-11-26.md",
     "Journal/2020-11-25.md",
-    "Journal/2020-11-24.md",
-    "Journal/2020-11-23.md"
+    "Journal/2020-11-24.md"
   ]
 }
