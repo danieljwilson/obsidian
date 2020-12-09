@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-08.md",
+            "file": "Journal/2020-12-09.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-08.md",
-            "mode": "source"
+            "file": "Journal/2020-12-09.md",
+            "mode": "preview"
           }
         },
         "group": "036422938cb459a9"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-12-08.md",
+                "file": "Journal/2020-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-12-09.md",
     "Journal/2020-12-08.md",
+    "promo codes.md",
     "Journal/2020-12-07.md",
     "Best of 2020.md",
     "laptop setup.md",
     "peerScholar psya01 2020.md",
     "Blog.md",
     "ta psya01 2020.md",
-    "Journal/2020-11-26.md",
-    "Journal/2020-11-25.md",
-    "Journal/2020-11-24.md"
+    "Journal/2020-11-26.md"
   ]
 }
