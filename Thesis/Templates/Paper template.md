@@ -1,10 +1,19 @@
+---
+title: {{title}}
+aliases: []
+summary: 
+created: {{date}} {{time}}
+modified: {{date}} {{time}}
+tags: []
+---
+
 # Info
 **Title**: 
 **Journal**: 
 **Year**:
 **Authors**:
 
-**Link**: 
+**Link**: [paperpile]()
 **Tags**: #paper
 **Rating**:
 

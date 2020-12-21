@@ -1,3 +1,7 @@
+---
+aliases: [confidence]
+---
+
 [[positive psychology]]
 [[mindset]]
 [[growth mindset]]

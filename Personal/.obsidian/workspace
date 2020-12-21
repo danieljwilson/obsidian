@@ -6,11 +6,11 @@
       {
         "id": "1c504aaa5369b5d1",
         "type": "leaf",
-        "active": true,
+        "dimension": 48.23815309842041,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-09.md",
+            "file": "Journal/2020-12-21.md",
             "mode": "source"
           }
         },
@@ -19,10 +19,12 @@
       {
         "id": "bc9924bfd61dbf7a",
         "type": "leaf",
+        "dimension": 51.76184690157959,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-09.md",
+            "file": "Journal/2020-12-21.md",
             "mode": "preview"
           }
         },
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-12-09.md",
+                "file": "Journal/2020-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -122,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Journal/2020-12-09.md",
-    "Journal/2020-12-08.md",
-    "promo codes.md",
-    "Journal/2020-12-07.md",
+    "Journal/2020-12-21.md",
     "Best of 2020.md",
-    "laptop setup.md",
-    "peerScholar psya01 2020.md",
-    "Blog.md",
-    "ta psya01 2020.md",
-    "Journal/2020-11-26.md"
+    "Jupyter.md",
+    "Journal/2020-12-18.md",
+    "Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks.md",
+    "Journal/2020-12-17.md",
+    "Journal/2020-12-16.md",
+    "Gifts Presents.md",
+    "Journal/2020-12-14.md",
+    "Journal/2020-12-11.md"
   ]
 }

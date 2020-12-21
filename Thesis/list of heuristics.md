@@ -14,6 +14,7 @@
 	- [[QuickEst heuristic]]
 	- [[categorization by elimination heuristic]]
 - [[satisficing heuristics|Satisficing heuristics]] strategy used when the alternatives themselves take time to find
+- [[priority heuristic]] (Branstatter et al., 2006)
 
 **[[Daniel Kahneman|Kahneman]] & [[Amos Tversky|Tversky]]**
 - [[representativeness heuristic]]: judgments influenced by what is typical

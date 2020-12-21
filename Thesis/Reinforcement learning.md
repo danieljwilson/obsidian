@@ -1,11 +1,12 @@
 [[modeling]]
 [[machine learning]]
 [[neuroscience]]
+[[actor-critic model]]
 
 #neuromatch 
 
 # Notes
-Defines the interaction between a learning agent and its enviornment in terms of decision making (action selection) within a [[markov decision process]]. 
+Defines the interaction between a **[[learning agent]]** and its **environment** in terms of decision making (**[[action selection]]**) within a [[markov decision process]]. 
 
 - Provides normative benchmark of what is best **in theory**
 - We don't know how the brain implements this

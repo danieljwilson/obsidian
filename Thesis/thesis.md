@@ -5,6 +5,7 @@
 
 ---
 # Notes
+## [[Thesis ToDo]]
 ## [[thesis ideas|Ideas]]
 ## [[thesis book|Book]]
 ## [[thesis experiment|Experiment]]

@@ -14,60 +14,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab meetings 4-12-2020-Jacob.md",
+                "file": "Thesis ToDo.md",
                 "mode": "source"
               }
             },
             "group": "176bff13ff2d96f1"
           },
           {
-            "id": "eb857805dc3a9aa2",
-            "type": "split",
-            "children": [
-              {
-                "id": "e4ec186b54531c99",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "lab meetings 4-12-2020-Jacob.md",
-                    "mode": "preview"
-                  }
-                },
-                "group": "176bff13ff2d96f1"
-              },
-              {
-                "id": "607cdf9e0f9fd5a4",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "lab meetings 4-12-2020-Jacob.md",
-                    "options": {
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.49743860042353083
-                    }
-                  }
-                },
-                "group": "176bff13ff2d96f1"
+            "id": "e4ec186b54531c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis ToDo.md",
+                "mode": "preview"
               }
-            ],
-            "direction": "horizontal"
+            },
+            "group": "176bff13ff2d96f1"
           }
         ],
         "direction": "vertical"
@@ -97,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model",
+                "query": "tag:#paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab meetings 4-12-2020-Jacob.md",
+                "file": "Thesis ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
@@ -158,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab meetings 4-12-2020-Jacob.md"
+                "file": "Thesis ToDo.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,15 +136,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "lab meetings 4-12-2020-Jacob.md",
-    "lab meetings.md",
-    "lab meetings 20-11-2020-Mostafa.md",
+    "Thesis ToDo.md",
+    "Tseng_VWS_2020_Using  Smartphone  Sensor  Data  to  Assess  Inhibitory  Control  inthe  Wild.md",
+    "thesis.md",
     "notes from cendri weekly meeting.md",
-    "experience sampling.md",
-    "thesis experiment.md",
-    "thesis experiment psychological tasks.md",
-    "thesis experiment questionnaires.md",
-    "intention-behavior gap measure.md",
-    "efficacy gap.md"
+    "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md",
+    "inhibitory control.md",
+    "prepotent response.md",
+    "well being.md",
+    "executive control.md",
+    "Untitled.md"
   ]
 }

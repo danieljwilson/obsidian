@@ -1,3 +1,12 @@
+---
+title: well being
+aliases: [well-being, Well being, mental well-being]
+summary: 
+created: 2020-12-18 11:07
+modified: 2020-12-18 11:07
+tags: []
+---
+
 [[life satisfaction]]
 [[online advertising experiment]]
 

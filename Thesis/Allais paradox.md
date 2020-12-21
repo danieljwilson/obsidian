@@ -27,6 +27,6 @@ Choose between:
 **D**:  .10 probability of five million dollars
 .90 probability of nothing
 
-- Most people go for A nad D, but this violates the [[independence axiom]].
+- Most people go for A and D, but this violates the [[independence axiom]].
 - Most explanations involve the assumption that the individual incorporates psychological factors such as [[regret]] into their evaluation of the options. This could be considered a [[context effects|contextual effect]].
 # Resources

@@ -3,6 +3,8 @@
 [[jobs]]
 [[interest aligned research]]
 
+#future-resources
+
 # Notes
 
 ## Labs
@@ -14,7 +16,9 @@
 
 [The Center for Brains Minds + Machines](https://cbmm.mit.edu/) @ MIT
 
-[Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the Max Planck Institute for Human Development, Berlin, Germany
+[Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) @ Max Planck Institute for Human Development, Berlin, Germany
+
+[Life Design Lab](http://lifedesignlab.stanford.edu/) @ Stanford
 
 # People
 - [[Sudeep Bhatia]] @ Penn MindCORE

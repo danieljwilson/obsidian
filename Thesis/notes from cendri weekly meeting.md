@@ -70,7 +70,7 @@ Wed:
 - Grading + Moving
 
 ## Notes
-- Add semantic fluency
+- Add semantic fluency ()
 	- trying to find reasons
 
 Emotional responsivity
@@ -83,11 +83,36 @@ Gap+
 
 ExpFactory
 
+# 12-09-2020
+## Talking Points
+**Doing/Done**
+- expfactory docker container tutorial
+	- Vanessa Sochat
+- Higgins qualtrics + R
+- outreach to lab re: measure
+- Prolific
+- reb
+- sjdm
+- neurIPS
+
+Surveys: Qualtrics vs. jspsych + expfactory
+Tasks: cognition vs. expfactory
 
 
+# 12-18-2020
+## Talking Points
+**Doing/Done**
+
+- apple docs
+- REB
+- app: mydatahelps care evolution
+- Paper on longitudinal smartphone study re: inhibitory control "Using  Smartphone  Sensor  Data  to  Assess  Inhibitory  Control  inthe  Wild:Longitudinal  Study"
+- expfactory - add experiments
+- gap measure
 
 
-
-
+**Follow Up**
+- can the lab buy me **The Handbook of Behavior Change**?
+- semantic fluency measure
 
 

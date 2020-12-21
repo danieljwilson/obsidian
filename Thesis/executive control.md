@@ -1,4 +1,11 @@
-
+---
+title: executive control
+aliases: [executive function, Executive control]
+summary: 
+created: 2020-12-18 11:05
+modified: 2020-12-18 11:05
+tags: []
+---
 
 # Notes
 
