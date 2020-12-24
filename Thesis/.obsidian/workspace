@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis ToDo.md",
+                "file": "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis ToDo.md",
+                "file": "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis ToDo.md",
+                "file": "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis ToDo.md"
+                "file": "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md"
               }
             }
           }
@@ -136,15 +136,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Thesis ToDo.md",
-    "Tseng_VWS_2020_Using  Smartphone  Sensor  Data  to  Assess  Inhibitory  Control  inthe  Wild.md",
-    "thesis.md",
-    "notes from cendri weekly meeting.md",
     "Bach_DR_2020_Calibrating  the  experimental  measurement  of  psychological  attributes.md",
-    "inhibitory control.md",
-    "prepotent response.md",
-    "well being.md",
-    "executive control.md",
-    "Untitled.md"
+    "unconditioned stimulus.md",
+    "unconditioned response.md",
+    "conditioned stimulus.md",
+    "metrology.md",
+    "random error.md",
+    "construct validity.md",
+    "systematic error.md",
+    "measurement error.md",
+    "bias.md"
   ]
 }

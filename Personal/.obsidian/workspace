@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-21.md",
+            "file": "Journal/2020-12-23.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-21.md",
+            "file": "Journal/2020-12-23.md",
             "mode": "preview"
           }
         },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-12-21.md",
+                "file": "Journal/2020-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Journal/2020-12-23.md",
     "Journal/2020-12-21.md",
+    "Journal/2020-12-22.md",
+    "to do list.md",
     "Best of 2020.md",
     "Jupyter.md",
     "Journal/2020-12-18.md",
     "Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks.md",
     "Journal/2020-12-17.md",
-    "Journal/2020-12-16.md",
-    "Gifts Presents.md",
-    "Journal/2020-12-14.md",
-    "Journal/2020-12-11.md"
+    "Journal/2020-12-16.md"
   ]
 }

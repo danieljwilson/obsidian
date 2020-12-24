@@ -6,6 +6,8 @@
 	- [ ] Actual text for all surveys
 	- [ ] Description of all tasks
 - [ ] can the lab buy me **The Handbook of Behavior Change**?
+- [ ] Make list of people to contact
+	- [ ] Contact Wim
 
 ## Reading
 - [ ] 2 papers on measurements
@@ -36,4 +38,5 @@
 
 #### Outcome
 - [ ] add questions for gap measure trying to get at gap cause
+	- [ ] contact lab members for feedback
 - [ ] add outcome measures to repo
