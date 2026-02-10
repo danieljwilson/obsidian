@@ -11,7 +11,7 @@
 ---
 **Connections**:
 [[individual differences]]
-[[behavioral intervention]]
+[[intervention]]
 [[thesis intervention]]
 [[dual-process model]]
 [[rule based reasoning]]
@@ -45,7 +45,7 @@ More_Reflective <-- Temperment
 - study focuses on [[statistical reasoning]]
 - admit that questions have low [[ecological validity]]
 
-**[[behavioral intervention|Behavioral Interventions]]**
+**[[intervention|Behavioral Interventions]]**
 [[internal behavioral intervention|Internal]] vs [[external behavioral intervention|External]]
 
 - Authors point out that [[intuitive decision making]] can often be accurate.

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "25c3dd5399d2a039",
+    "type": "split",
+    "children": [
+      {
+        "id": "926b3cbe43c8f619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c86dcbffbf52795c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flexible emotion regulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flexible emotion regulation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eca783c0fd3e436a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ebc7dc172f72e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51b180fa240c23b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b935f2a1c1d2c0bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a90a6249457eb3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "3a7162692d6355f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af679f22a9862a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "208e663b8b9b62c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf62708b1a1bba59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MEXA Hackathon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MEXA Hackathon"
+            }
+          },
+          {
+            "id": "56f0dd8a3fd36d6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc4066e51c863ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MEXA Hackathon.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MEXA Hackathon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "limitless-lifelogs:Sync Limitless Lifelogs": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "c86dcbffbf52795c",
+  "lastOpenFiles": [
+    "Gershman_SJ_2023_Dynamic Computational Phenotyping of Human Cognition.md",
+    "Projects/Parenting Agent/Parenting Agent Dashboard.md",
+    "Untitled",
+    "Projects/Parenting Agent",
+    "Projects",
+    "Untitled.base",
+    "MEXA Hackathon.md",
+    "Attachments/Pasted image 20241203164856.png",
+    "schema model of self control.md",
+    "Daniel Reznik.md",
+    "Dynamic computational phenotyping of human cognition.md",
+    "self-schema.md",
+    "social cognitive approach to personality.md",
+    "personality psychology.md",
+    "psychoanalytic perspective of personality.md",
+    "self control.md",
+    "dual-process model.md",
+    "Stanovich_KE_2008_On the Relative Independence of Thinking Biases and Cognitive Ability.md",
+    "thesis ideas.md",
+    "thesis.md",
+    "Experiment Factory.md",
+    "ideas.md",
+    "Daily Constant Recording Concept.md",
+    "lab meeting 23-11-2023 Daniel W.md",
+    "lab meetings.md",
+    "lab meetings 2-11-2023 Jacob Paper.md",
+    "frontier.md",
+    "Attachments/Pasted image 20231026081751.png",
+    "last-in first-out.md",
+    "CS50AI - Search.md",
+    "stacking.md",
+    "Attachments/Pasted image 20231026080236.png",
+    "greedy best-first search.md",
+    "Attachments/Pasted image 20231025100954.png",
+    "Attachments/Pasted image 20231025100615.png",
+    "Attachments/Pasted image 20231025100536.png",
+    "Attachments/Pasted image 20231023093515.png",
+    "Attachments/Pasted image 20231011154043.png",
+    "Attachments/Pasted image 20231003102046.png",
+    "Attachments/Pasted image 20231003101932.png",
+    "SIBR23 Gerd Gigerenzer.md.part",
+    "Attachments/SIBR23_schedule.pdf",
+    "Coursera_Machine Learning Specialization.md.part"
+  ]
+}

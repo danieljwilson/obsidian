@@ -1,8 +1,24 @@
-[[experimentation]]
+---
+title: experience sampling
+aliases: [ESM, Experience Sampling, experience sampling methodology]
+summary: 
+created: 2021-04-16 10:54
+modified: 2021-04-16 10:54
+tags: []
+---
+
+[[experiment]]
+[[experimental design]]
 [[methods]]
 [[thesis]]
+[[thesis experience sampling]]
+[[daily diary study]]
+[[ecological momentary assessment]]
+[[ambulatory assessment]]
 
 # Notes
+Generally refers to when people report on their subjective experiences (thoughts, states, events).
+
 
 ## Greg
 - Attrition rates
@@ -35,4 +51,4 @@ Overview
 ![[ESM software.png]]
 ![[ESM options.pdf]]
 - [Surveysignal](https://www.surveysignal.com/) 
-- [Metricwire](https://metricwire.com/)
+- [[Metricwire]], [Metricwire](https://metricwire.com/)

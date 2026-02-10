@@ -1,6 +1,6 @@
 [[homo economicus]]
 [[economics]]
-[[rational choice]]
+[[rational choice theory]]
 [[rational behavior]]
 [[decision]]
 [[bounded rationality]]

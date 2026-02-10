@@ -51,6 +51,22 @@ If our level of [[inhibitory control]] fluctuates, what are the **mechanisms** t
 Used [[generalized estimating equation]] (GEE) and [[gradient boosting]] [[tree models]] fitted with features extracted from participants’phone use and sensor data to predict their stop-signal reaction time (SSRT), an objective metric used to measure an individual’s [[inhibitory control]], and identify the predictive digital markers.
 
 ## Thoughts
+- Why GEE
+	- Were you not trying to make individual predictions?
+	- "Focus of GEE is on estimating the average response over the population"
+	- "Large epidemiological studies"
+- predicting stop signal reaction time for each session?
+- confirming burstiness = phone use sessions
 
+>A longer SSRT means lower inhibitory control and vice versa.
+
+Seems like a strong claim given that you say:
+>contributes to our attention,performance, and physical and mental well-being.
+
+- digital markers for inhibitory control
+	- digital measurements associated with SSRT
+
+- didn't use apple health kit
 
 # Resources
+

@@ -1,4 +1,4 @@
-[[experimentation]]
+[[experiment]]
 [[experimental design]]
 [[theory]]
 [[science of science]]

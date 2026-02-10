@@ -1,0 +1,13 @@
+{
+  "obsidianCss": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/Attachments",
+  "enabledPlugins": [],
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

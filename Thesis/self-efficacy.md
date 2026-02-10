@@ -22,5 +22,9 @@ Or, simpler, the perception of one's own **ability to reach a goal**.
 # Resources
 Wiki [page](https://en.wikipedia.org/wiki/Self-efficacy)
 
+**Papers**
+- Bandura, 1977
+- Bandura, 1982
+
 **Books**
 - Bandura, A. (1997). Self-efficacy. The exercise of control. 

@@ -1,3 +1,13 @@
+---
+title: planning fallacy
+aliases: []
+summary: 
+created: 2021-04-01 14:10
+modified: 2021-04-01 14:10
+tags: []
+---
+
+[[intention-behavior gap]]
 [[bounded rationality]]
 [[sub-optimal choice]]
 [[decision making]]

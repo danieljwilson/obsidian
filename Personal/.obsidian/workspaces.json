@@ -1,0 +1,151 @@
+{
+  "workspaces": {
+    "Journal": {
+      "main": {
+        "id": "b446427ac364fc67",
+        "type": "split",
+        "children": [
+          {
+            "id": "c118b8b85e3c4936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2021-04-23.md",
+                "mode": "source"
+              }
+            },
+            "group": "3ef710006a7ba4d9"
+          },
+          {
+            "id": "4da22c37808769f3",
+            "type": "split",
+            "children": [
+              {
+                "id": "e5318af4fa8e97b0",
+                "type": "leaf",
+                "dimension": 68.49015317286651,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Journal/2021-04-23.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "3ef710006a7ba4d9"
+              },
+              {
+                "id": "63d8127d29f35b23",
+                "type": "leaf",
+                "dimension": 31.50984682713348,
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1e6abcd6ba040929",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c30ee6e94cbdb20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6f9f12f7d128072",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2630334d38fe2f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a2f2ea7062c0126e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6405d74e755f4fff",
+        "type": "split",
+        "children": [
+          {
+            "id": "857a533b9e098975",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4aef2fdd08cb830a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Journal/2021-04-23.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0c6d1a8689365ec9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef6da537143f4c73",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 412,
+        "collapsed": true
+      },
+      "active": "e5318af4fa8e97b0"
+    }
+  },
+  "active": "Journal"
+}

@@ -1,5 +1,5 @@
 [[iPhone data collection]]
-[[thesis experiment]]
+[[thesis experiments]]
 [[data collection]]
 [[Apple CareKit]]
 

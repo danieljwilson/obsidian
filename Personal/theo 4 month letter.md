@@ -1,0 +1,15 @@
+[[kids letters]]
+[[letters]]
+
+Dear Theo,
+
+As you achieve your 1/3 of a year birthday milestone we sit (or lie as the case may be for your siblings) on a OUIGO train shuttling through the countryside of southern France on our way to Paris Gare de Lyon. I have always found this name to be just ever so slightly unkind. How many tourists have found themselves taking a quick glance at their ticket as they board the train and suddenly had a fluttering moment of doubt as to whether they are headed perhaps not to Paris after all, but, in fact, to Lyon? 
+
+As far as complaints go this is, I have to admit, a fairly minor issue. Perhaps more of a gripe than a full-fledged complaint. Of the genre “why make this more complicated than it needs to be when it would be just as easy for it to be less complicated?” Generally as one ages, or at least it has been the case for me, the categories and volume of complaints increases. You develop a finely attuned complaint palette. This is fine, to a point, but giving some consideration to the complaints of a four month old provides a bit of perspective. It isn’t possible to ask you directly, but in the course of close observation it seems like your complaints have, historically, fallen into two categories: I’m hungry, and I’m uncomfortable. 
+
+What is interesting is that in recent weeks you have begun to expand beyond these to base categories, as at times it appears that you have added “I want some attention”, and it’s close relative “I’m bored” to your repertoire. As the weeks months and years march on this repertoire will inevitably continue to grow but the specifics, for the moment, remain unknowable. It is also interesting - though perhaps interesting in the way that traveling to Paris from St. Jeannet with 3 young children and copious luggage is “interesting” - to consider the fact that there is a future transition point awaiting your mother and I in which we go from being the solution to your complaints to their source.
+
+Four hours away from arriving at your 5th residence - we are averaging a robust one residence per month in your first quadrimester of life (is there some sort of message behind the fact that we will be staying at 84 Madness Street (Rue de la Folie Mericourt) in Paris? I tend to think not but reasonable people can disagree) - but yes, 4 hours away from arriving at your 5th residence I am also feeling gratitude for the fact that all of these changes have been met on your part with, for the most part, utter equanimity. No complaints. And perhaps there is something to learn from that. Just a small acknowledgement of the fact that one can be quite well satisfied - to the point of gargling milk with a wide grin on one’s mouth - simply with a topped up stomach and no poop in our pants. Yes, like the dual nature of all matter, life is complicated, but life is also not complicated. 
+
+Love,
+Dad

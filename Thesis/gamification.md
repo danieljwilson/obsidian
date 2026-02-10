@@ -1,7 +1,7 @@
 [[decision making]]
 [[decision support]]
 [[incentives]]
-[[Lieder_F_2019]]
+[[Lieder_F_2019_Cognitive prostheses for goal achievement]]
 
 # Notes
 - research has found that gamification can have positive effects on motivation, engagement, behaviour and learning outcomes [2].

@@ -1,3 +1,12 @@
+---
+title: intelligence
+aliases: [general intelligence]
+summary: 
+created: 2021-05-03 21:54
+modified: 2021-05-03 21:54
+tags: []
+---
+
 [[crystallized intelligence]]
 [[cognitive ability]]
 [[fluid intelligence]]

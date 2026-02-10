@@ -1,7 +1,7 @@
 [[experimental design]]
 [[scientific method]]
 [[science of science]]
-[[experimentation]]
+[[experiment]]
 [[criterion validity]]
 [[construct validity]]
 [[face validity]]

@@ -1,7 +1,15 @@
+---
+title: criterion validity
+aliases: []
+summary: 
+created: 2023-05-23 16:37
+modified: 2023-05-23 16:37
+tags: []
+---
 [[experimental design]]
 [[scientific method]]
 [[science of science]]
-[[experimentation]]
+[[experiment]]
 [[criterion validity]]
 [[construct validity]]
 [[face validity]]
@@ -13,7 +21,7 @@
 # Notes
 Extent to which scores on a measure correlate with other variables (criteria) that one would expect them to correlate with.
 
-- When the criterion is measured at teh same time as the [[construct]] [[criterion validity]] is referred to more specifically as [[concurrent validity]].
+- When the criterion is measured at the same time as the [[construct]] [[criterion validity]] is referred to more specifically as [[concurrent validity]].
 - When the criterion is measured at some point in the future (after the [[construct]] has been measured), it is referred to as [[predictive validity]].
 - Criteria can also be ==other measures of the same [[construct]]!==
 	- This is known as [[convergent validity]]
@@ -21,3 +29,4 @@ Extent to which scores on a measure correlate with other variables (criteria) th
 **Example**
 - people’s scores on a new measure of test anxiety should be negatively correlated with their performance on an important school exam
 # Resources
+**Papers**

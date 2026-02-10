@@ -4,31 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1c504aaa5369b5d1",
+        "id": "c118b8b85e3c4936",
         "type": "leaf",
-        "dimension": 48.23815309842041,
+        "dimension": 65.3819683413627,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2020-12-23.md",
-            "mode": "source"
+            "file": "Trip to Nice 2022.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "036422938cb459a9"
+        }
       },
       {
-        "id": "bc9924bfd61dbf7a",
+        "id": "63d8127d29f35b23",
         "type": "leaf",
-        "dimension": 51.76184690157959,
-        "active": true,
+        "dimension": 34.6180316586373,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/2020-12-23.md",
-            "mode": "preview"
-          }
-        },
-        "group": "036422938cb459a9"
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -55,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,10 +88,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2020-12-23.md",
+                "file": "Trip to Nice 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +111,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
               }
             }
           }
@@ -126,16 +123,17 @@
     "width": 412,
     "collapsed": true
   },
+  "active": "c118b8b85e3c4936",
   "lastOpenFiles": [
-    "Journal/2020-12-23.md",
-    "Journal/2020-12-21.md",
-    "Journal/2020-12-22.md",
-    "to do list.md",
-    "Best of 2020.md",
-    "Jupyter.md",
-    "Journal/2020-12-18.md",
-    "Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks.md",
-    "Journal/2020-12-17.md",
-    "Journal/2020-12-16.md"
+    "Writing.md",
+    "1 year 5 year plan.md",
+    "Alex Mazer Values Meetings.md",
+    "Trip to Nice 2022.md",
+    "Values Enthusiasm and Joy.md",
+    "Values.md",
+    "Values Enthusiasm/Joy.md",
+    "Journal/2022-10-09.md",
+    "To do List - October 2022.md",
+    "Journal/2022-10-01.md"
   ]
 }

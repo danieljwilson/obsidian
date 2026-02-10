@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "b446427ac364fc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b740934f922329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2aeac5bb96ff27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A few questions on Gender and kids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A few questions on Gender and kids"
+            }
+          },
+          {
+            "id": "3afb71d9dde95297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-03-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-06"
+            }
+          },
+          {
+            "id": "3c5e773b90e4e799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French Class B2.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "French Class B2.2"
+            }
+          },
+          {
+            "id": "aefaf4bafffbf063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "letters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "letters"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1387acf8e40fca52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d8127d29f35b23",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e6abcd6ba040929",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c30ee6e94cbdb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f9f12f7d128072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2630334d38fe2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2f2ea7062c0126e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "dc5e061565cd9f16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6405d74e755f4fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "857a533b9e098975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aef2fdd08cb830a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "French Class B2.2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for French Class B2.2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c6d1a8689365ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef6da537143f4c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3afb71d9dde95297",
+  "lastOpenFiles": [
+    "A few questions on Gender and kids.md",
+    "Journal/2024-03-06.md",
+    "French Class B2.2.md",
+    "letters.md",
+    "Theo 4 year old letter.md",
+    "kids letters.md",
+    "Theo 3 years.md",
+    "letter on kids.md",
+    "Pasted image 20241129112713.png",
+    "Pasted image 20241129112612.png",
+    "Pasted image 20241129112543.png",
+    "Pasted image 20241129112529.png",
+    "Pasted image 20241129112514.png",
+    "Pasted image 20241129102443.png",
+    "Pasted image 20241129101628.png",
+    "Pasted image 20241122111134.png",
+    "Pasted image 20241122104625.png",
+    "peerScholar psyA01 2024.md",
+    "Savannah 2024 (Austin) [conflicted].md",
+    "ta psya01 2020.md",
+    "Pasted image 20241119105321.png",
+    "Untitled [conflicted 8].md",
+    "Untitled.md",
+    "Untitled [conflicted 7].md",
+    "Untitled [conflicted 6].md",
+    "Savannah 2024 (Austin).md",
+    "peerScholar psya02 2022 (conflicted).md",
+    "peerScholar psya02 2022.md.part",
+    "Journal/2024-03-05.md",
+    "Journal/2024-03-04.md",
+    "Journal/2024-02-26.md",
+    "Journal/2024-02-22.md",
+    "Journal/2024-02-20.md",
+    "Journal/2024-02-19.md",
+    "Journal/2024-02-07.md",
+    "Journal/2024-02-06.md",
+    "Journal/2024-02-05.md",
+    "peerScholar_rubric_Winter2023.pdf",
+    "Expressive Language.md.part"
+  ]
+}

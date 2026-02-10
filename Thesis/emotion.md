@@ -1,3 +1,11 @@
+---
+title: emotion
+aliases: [emotions]
+summary: 
+created: 2021-10-18 15:17
+modified: 2021-10-18 15:17
+tags: []
+---
 [[consensual componential model of emotions]]
 [[personality]]
 [[personality psychology]]
@@ -6,6 +14,7 @@
 [[positive affect]]
 [[negative affect]]
 [[emotional intelligence]]
+[[affect]]
 
 # Notes
 

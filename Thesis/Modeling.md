@@ -45,4 +45,8 @@
 
 # Resources
 - [[Marr's 3 levels of analysis]]
-- Modeling process: ![[modeling_process.png]]
+- Modeling process: 
+- ![[modeling_process.png]]
+**Videos**
+- [10 Steps of Modeling Process](https://www.youtube.com/watch?v=9gw2lmnHY54)
+- 

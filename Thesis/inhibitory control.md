@@ -7,6 +7,7 @@ modified: 2020-12-18 11:03
 tags: []
 ---
 
+[[executive control]]
 
 # Notes
 Ability to inhibit [[prepotent response]] to goal-irrelevant stimuli.
@@ -23,4 +24,5 @@ Ability to inhibit [[prepotent response]] to goal-irrelevant stimuli.
 	- e.g. physical activity and good sleep habits promote [[inhibitory control]]
 - [[stop signal task]] common [[psychometric test]] that attempts to tap into this construct
 - [[heart rate variability]] also positively associated with [[inhibitory control]]
+- 
 # Resources

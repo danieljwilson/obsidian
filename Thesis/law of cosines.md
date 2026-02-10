@@ -13,4 +13,9 @@ $a^2 = b^2 + c^2 - 2bc \cos A$
 $b^2 = a^2 + c^2 - 2ac \cos B$
 $c^2 = a^2 + b^2 - 2ab \cos C$
 
+- good for solving a Side-Angle-Side triangle ([[sas case]])
+- can also be used for [[sss case]]
+	- note that in solving a [[sss case]] you should find the angle opposite the **longest side**
+- for [[asa case]] you can directly use [[law of sines]]
+
 # Resources

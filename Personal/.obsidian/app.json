@@ -1,0 +1,10 @@
+{
+  "obsidianCss": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

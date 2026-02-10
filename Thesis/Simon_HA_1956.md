@@ -12,7 +12,7 @@
 [[thesis-background]]
 [[decision making]]
 [[decision support]]
-[[rational choice]]
+[[rational choice theory]]
 [[decision environment]]
 [[bounded rationality]]
 [[adaptive behavior]]

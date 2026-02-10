@@ -1,5 +1,5 @@
 [[markov model]]
-[[markov decision process]]
+[[Markov decision process]]
 [[hidden markov model]]
 
 # Notes

@@ -1,3 +1,11 @@
+---
+title: bounded rationality
+aliases: [ecological rationality]
+summary: 
+created: 2023-06-14 09:42
+modified: 2023-06-14 09:42
+tags: []
+---
 [[heuristics]]
 [[foraging theory]]
 [[ecological rationality]]

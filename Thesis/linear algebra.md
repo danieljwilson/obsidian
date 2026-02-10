@@ -2,7 +2,12 @@
 [[basis vectors]]
 [[linear system of equations]]
 [[dot product]]
-
+[[vector subspace]]
+[[span]]
+[[linear independence]]
+[[linear dependence]]
+[[basis vectors]]
+[[matrices]]
 # Notes
 - Fundamental unit = **VECTOR**
 - Vector = ordered list of numbers
@@ -26,4 +31,4 @@ $$\begin{bmatrix}0 & -1 \\ 1 & 0\end{bmatrix}$$
 # Resources
 - [3blue1brown series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=0s)
 - Book: `/Users/djw/Documents/pCloud_synced/Academics/Books/Introduction to Linear Algebra, 4th edition--Gilbert Strang.pdf` [[Strang_G]]
-
+- [Udemy Mike X Cohen course](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)^[I have purchased access to this...]

@@ -24,7 +24,7 @@
 # Notes
 ## Summary
 [[rationality]] vs. [[cognitive ability]]
-- many [[cognitive biases]] are failures in [[rational choice]] not [[cognitive ability]]
+- many [[cognitive biases]] are failures in [[rational choice theory]] not [[cognitive ability]]
 - typically [[intelligence]] assessments do not test for [[cognitive biases]]
 
 Generally, theories in [[heuristics]] and [[cognitive biases|biases]] believe in [[dual-process model]] of cognition, which assumes [[cognitive biases|biases]] are a universal property of our [[heuristics|heruistic]] system of [[cognition]] and [[decision making]].
@@ -71,6 +71,7 @@ A [[between-subjects design]] would be a stricter evaluation, and have higher [[
 **Takeaways**
 - many biases from the heuristics and biases literature are essentially independent of [[cognitive ability]]
 
+![[Pasted image 20210201134014.png]]
  
 ## Thoughts
 

@@ -1,3 +1,16 @@
+---
+title: regularization
+aliases: []
+summary: 
+created: 2021-08-08 10:21
+modified: 2021-08-08 10:21
+tags: []
+---
+
+[[machine learning]]
+[[overfitting]]
+[[ridge regression]]
+
 # Notes
 - Used to avoid [[overfitting]]!
 - shrinks the parameters in [[general linear model|glm]] toward 0

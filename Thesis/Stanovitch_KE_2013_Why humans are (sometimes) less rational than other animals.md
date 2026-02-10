@@ -26,7 +26,7 @@ Formal analyses in [[decision theory]] show that you maximize [[utility]] if you
 
 **1. Contextual Complexity**
 - humans process more (and more complex) contextual information than animals
-- principles of [[rational choice]] are, in fact, **easier** to follow when the cognitive architecture of the organism is simpler
+- principles of [[rational choice theory]] are, in fact, **easier** to follow when the cognitive architecture of the organism is simpler
 - [[axioms of rational choice]] ignore [[context effects]]/[[decision environment]]
 - contextual features humans code into options may lack stability both for good reasons (the social world is not stable) and bad reasons (the cues are too many and varying to be coded consistently each time, i.e. [[noise]]).
 

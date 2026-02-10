@@ -1,7 +1,7 @@
 [[bounded rationality]]
 [[heuristics]]
 [[cognitive biases]]
-[[value-based decisions]]
+[[value-based choice]]
 [[mutual information]]
 
 # Notes

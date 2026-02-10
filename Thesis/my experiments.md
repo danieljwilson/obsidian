@@ -1,8 +1,8 @@
 [[experimental design]]
 [[thesis]]
-[[thesis experiment]]
+[[thesis experiments]]
 
 # Notes
-[[thesis experiment]]
+[[thesis experiments]]
 
 # Resources

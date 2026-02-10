@@ -3,7 +3,7 @@
 [[cognitive biases]]
 [[debiasing]]
 [[internal behavioral intervention]]
-[[behavioral intervention]]
+[[intervention]]
 
 # Notes
 **Nudges**

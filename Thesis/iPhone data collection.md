@@ -1,4 +1,4 @@
-[[thesis experiment]]
+[[thesis experiments]]
 [[data collection]]
 
 # Notes

@@ -1,3 +1,9 @@
+## Clothes
+### Shoes
+[R. W. Williams Boots](https://www.rmwilliams.com/ca/men/footwear?lang=en_CA)
+
+
+## Tech
 ### macbook pro
 - in usa: 1069 + tax = 1524
 - in canada: 2309 - 660 = 1649
@@ -6,7 +12,6 @@
 usa: 1381
 canada: 1582
 
-### trainer
 
 
 

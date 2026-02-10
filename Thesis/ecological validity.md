@@ -1,5 +1,5 @@
 [[experimental design]]
-[[experimentation]]
+[[experiment]]
 [[external validity]]
 
 # Notes

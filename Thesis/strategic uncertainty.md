@@ -1,5 +1,5 @@
 [[bounded rationality]]
-[[rational choice]]
+[[rational choice theory]]
 [[uncertainty]]
 [[thesis]]
 [[adaptive toolbox]]

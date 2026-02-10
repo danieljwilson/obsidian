@@ -1,3 +1,11 @@
+---
+title: one reason decision making heuristic
+aliases: []
+summary: 
+created: 2023-06-14 12:15
+modified: 2023-06-14 12:15
+tags: []
+---
 [[heuristics]]
 [[cognitive biases]]
 [[decision making]]

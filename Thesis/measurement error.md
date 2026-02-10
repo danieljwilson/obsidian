@@ -13,11 +13,15 @@ tags: []
 [[precision]]
 [[bias]]
 [[error]]
+[[total survey error framework]]
 
 # Notes
 The difference between a measured quantity and its **true** value.
 
 - also called [[measurement error|observational error]]
 - included [[random error]] and [[systematic error]]
+
+**EXAMPLES**
+- [[question form effects]]
 
 # Resources

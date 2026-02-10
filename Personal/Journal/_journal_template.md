@@ -1,3 +1,6 @@
+### [[DJ]]
+Daily journal
+
 ### [[DW]]
 Did well
 
@@ -15,6 +18,9 @@ Neat kids
 
 ### [[RT]]
 Random thought
+
+### [[Gratitude]]
+
 
 ---
 - [ ] Journal

@@ -1,0 +1,1 @@
+So if you ever find yourself thinking "Hm, perhaps I'll give a kitchen renovation a shot" just keep thinking. Until another idea comes into your head. Then do that one. The one that is not the kitchen renovation one.

@@ -1,4 +1,4 @@
-[[markov decision process]]
+[[Markov decision process]]
 [[linear dynamical system]]
 [[latent state]]
 

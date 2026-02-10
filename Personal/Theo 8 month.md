@@ -1,0 +1,15 @@
+[[kids letters]]
+[[letters]]
+
+Dear Theo,
+
+As I sit at Coopers’ park overlooking the boats cruising down False Creek, and watching Amos zoom around on his bike and Rilka learning to use the swing on her own - wait, she just jumped off to chase a crow - I am suddenly struck by the realization that we completely missed your 7 month photos. Which then make me in turn wonder if we even took your 6 month old photos?
+
+On our way to the park, while struggling to get off the bus with 3 kids, one stroller and 2 bikes, an older Asian woman saw the three of you and said, a number of times, you are so lucky! She was speaking to me, the person tumbling out of the bus in a mass of bikes and kids and stroller, which, given the circumstances struck me as a somewhat funny thing to say. Of course when considering the bigger picture she was correct - I do feel very lucky to have you and Amos and Rilka in my life, as my kids. Very lucky. Though I do, not to toot your parents’ own horns, feel like that luck also runs pretty strongly in the other direction as well. The point though is that luck is multifaceted. The good luck of having you three kids is also directly tied to the bad luck of having to get up at 7am on a Saturday morning when I really really would have enjoyed paying down some of my accumulated sleep debt.
+
+In your case, the good luck of having older siblings is somewhat offset - I suppose it depends on your point of view - by the fact that those same older siblings mean that we are forced to spend less time with you. And that also goes for attention. Undivided attention just isn’t something you have much exposure to. Especially when the sources of division can tend to try pretty energetically to slant the division math in their favour. But even given all that I think, I hope, that you will find the pluses outweigh the minuses. That having a couple of energetic attention dividers making faces at you and tickling you and sooner than we can imagine, playing with you, is, and will continue to be a source of richness in your life.
+
+This, of course, is just a hope, not an objective fact. However my hope is that you will find a way to turn it into a reality for you. This speaks to the larger point I am trying to get at - as Shakespeare put it, “Their is nothing either good or bad but thinking makes it so.” I would modify it to something more like “All things contain both good and bad and finding the good and focusing on that aspect is a more interesting and productive way to go through life”. Granted, it doesn’t really roll off the tongue in the same way. It also risks sounding like I am simply endorsing optimism. My point, which I am trying to articulate and type out on an iPad propped up on your feet as you sleep in the stroller on our bus ride back from our outing, is that opportunities are often intertwined with challenges. And that I hope you excel in seeing and embracing that. And that I hope that you and your sister Rilka and brother Amos become great friends.
+
+Love,
+Dad

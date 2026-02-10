@@ -9,9 +9,9 @@
 **Rating**: #2star
 
 **Connections**:
-[[thesis experiment]]
+[[thesis experiments]]
 [[data collection]]
-
+[[smartphone]]
 
 # Notes
 ## Summary

@@ -1,5 +1,5 @@
 [[thesis]]
-[[thesis experiment]]
+[[thesis experiments]]
 
 # Notes
 Question Ideas

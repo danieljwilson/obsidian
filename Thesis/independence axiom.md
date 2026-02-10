@@ -4,7 +4,7 @@
 [[utility theory]]
 [[decision evaluation]]
 [[decision integration]]
-[[rational choice]]
+[[rational choice theory]]
 [[rational preference]]
 [[rational behavior]]
 [[axioms of rational choice]]

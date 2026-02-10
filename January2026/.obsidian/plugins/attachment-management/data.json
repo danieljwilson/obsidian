@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {
+    "Website_Personal/Content": {
+      "attachmentRoot": "Website_Personal/Content/assets",
+      "saveAttE": "inFolderBelow",
+      "attachmentPath": "",
+      "attachFormat": "IMG-${date}",
+      "type": "FOLDER"
+    }
+  },
+  "disableNotification": false
+}

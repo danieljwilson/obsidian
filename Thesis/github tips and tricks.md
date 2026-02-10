@@ -1,6 +1,14 @@
 ---
-tags: [github, tips-and-tricks, resources]
+title: github tips and tricks
+aliases: []
+summary: 
+created: 2021-04-28 10:51
+modified: 2021-04-28 10:51
+tags: []
 ---
+
+[[programming]]
+[[version control]]
 
 # Notes
 **[ADD NEW FOLDER](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)**
@@ -8,6 +16,47 @@ tags: [github, tips-and-tricks, resources]
 **[ADD FILE TO EXISTING REPO FROM COMMAND LINE](https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line)**
 
 **[TRYING TO UPDATE GITIGNORE AFTER THE FACT](https://www.git-tower.com/learn/git/faq/ignore-tracked-files-in-git)**
+
+#### Problem with large file
+Here's something I found super helpful if you've already been messing around with your repo before you asked for help. First type:  
+
+```
+git status
+```
+
+After this, you should see something along the lines of
+
+```
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+```
+
+The important part is the "2 commits"! From here, go ahead and type in:
+
+```
+git reset HEAD~<HOWEVER MANY COMMITS YOU WERE BEHIND>
+```
+
+So, for the example above, one would type:
+
+```
+git reset HEAD~2
+```
+
+After you typed that, your "git status" should say:
+
+```
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+```
+
+From there, you can delete the large file (assuming you haven't already done so), and you should be able to re-commit everything without losing your work.  
+I know this isn't a super fancy reply, but I hope it helps!
 
 ## Commands
 `git clone` (html address of repository)

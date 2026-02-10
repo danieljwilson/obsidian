@@ -1,9 +1,20 @@
+---
+title: Markov decision process
+aliases: []
+summary: 
+created: 2023-03-14 09:35
+modified: 2023-03-14 09:35
+tags: []
+---
 [[hidden markov model]]
 [[dynamical systems]]
 
 
 # Notes
 A description of the environment as a set of states that transition to each other probabilistically (possibly dependent on an agent’s actions), and a set of rewards that may be available in each state.
+
+![[Pasted image 20230314093601.png]]
+
 - Present state determines probability of transitions to the next state
 - Future is independent of the past given the present
 - This is an interactive [[markov model]]
@@ -15,3 +26,4 @@ A description of the environment as a set of states that transition to each othe
 Is the reward necessary? 
 
 # Resources
+**Papers**

@@ -8,7 +8,7 @@ Three basic components:
 	
 ![[hidden_state_models.png]]
 
-- Can restrict dynamics to [[markov decision process|Markovian]] systems.
+- Can restrict dynamics to [[Markov decision process|Markovian]] systems.
 - 
 
 # Resources

@@ -1,5 +1,5 @@
 [[axioms of rational choice]]
-[[rational choice]]
+[[rational choice theory]]
 [[decision]]
 [[decision making]]
 [[decision theory]]

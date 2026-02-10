@@ -3,7 +3,7 @@
 [[cognitive biases]]
 [[debiasing]]
 [[external behavioral intervention]]
-[[behavioral intervention]]
+[[intervention]]
 
 # Notes
 **Simple Rules**

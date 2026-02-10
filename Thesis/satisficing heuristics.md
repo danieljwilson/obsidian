@@ -2,7 +2,7 @@
 [[heuristics]]
 [[bounded rationality]]
 [[decision making]]
-[[rational choice]]
+[[rational choice theory]]
 [[satisficing]]
 [[mate selection]]
 

@@ -1,4 +1,14 @@
+---
+title: personality
+aliases: []
+summary: 
+created: 2021-04-15 11:13
+modified: 2021-04-15 11:13
+tags: []
+---
+
 [[individual differences]]
+[[personality measurement]]
 
 # Notes
 Stable, consistent, individual differences in behaviour across time and contexts.

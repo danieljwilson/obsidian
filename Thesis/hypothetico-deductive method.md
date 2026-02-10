@@ -1,5 +1,5 @@
 [[experimental design]]
-[[experimentation]]
+[[experiment]]
 [[critical rationalism]]
 [[derivation chain]]
 

@@ -32,3 +32,9 @@ Many of the biases seem to be statistical or logical errors.
 
 ==qualitative + quantitative==
 
+## Intention vs Behavior
+Many personality constructs seem to be based on behavior, as it is empirically measurable. But what if we **intend** to be [[conscientiousness|conscientous]] and are not, for example? We don't act conscientiously in this circumstance but should we think of this differently as compared with someone who did **not** intend to act conscientiously?^[Again reminds me of the manslaughter situation - where the outcome is the same but the intention is taken into account...]
+
+## It's the thought that counts
+My position is that the thought **does** count. And behavior counts as well. And the alignment between the two counts.
+

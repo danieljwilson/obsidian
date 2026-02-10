@@ -17,4 +17,6 @@ $\cot^2 u + 1 = \csc^2 u$
 
 ![[trigonometric_identities.png]]
 
+![[Pasted image 20210210091848.png]]
+
 # Resources

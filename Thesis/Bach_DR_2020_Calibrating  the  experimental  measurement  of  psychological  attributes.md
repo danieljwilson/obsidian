@@ -4,13 +4,13 @@ aliases: []
 summary: 
 created: 2020-12-21 10:56
 modified: 2020-12-21 10:56
-tags: []
+tags: [thesis-readingList]
 ---
 
 # Info
 **Title**: Calibrating  the  experimental  measurement  of  psychological  attributes
 **Journal**: #Nature-Human-Behavior
-**Year**: 2020
+**Year**: #y2020 
 **Authors**: [[Dominik R. Bach]], [[Filip Melinščak]], [[Stephen M. Fleming]], [[Manuel C. Voelkle]]
 **Link**: [paperpile](chrome-extension://bomfdkbfpdhijjbeoicnfhjbdhncfhig/view.html?mp=6CGYSCLI)
 **Tags**: #paper
@@ -35,6 +35,8 @@ Behavioral researchers often seek to experimentally manipulate, measure and anal
 [[measurement methods]] in experimental research are often based on tradition and are not consistent between communities...[[measurement error]] can be same order of magnitude as the effects we are trying to study.
 
 Need to know whether measurements are **meaningful** and **accurate**.
+
+Introduce idea of [[retrodictive validity|Retrodictive Validity]]
 
 **Research Goal**
 Reduce [[measurement error]]. Improve [[accuracy]].

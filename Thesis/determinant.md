@@ -1,8 +1,17 @@
+---
+title: determinant
+aliases: 
+summary: 
+created: 2023-10-03 09:49
+modified: 2023-10-03 09:49
+tags:
+---
+
 [[linear algebra]]
-	[[rank]]
+[[rank]]
 
 # Notes
- - determinant refers to **AREA**
+ - determinant can be thought of as **AREA**
  ![[determinant 1.png]]
  - The determinant is ZERO if it is a line or point...(because area becomes zero)
 	 - This lets you know if a transformation squishes things into a smaller dimension
@@ -16,8 +25,19 @@
  - [[rank|Rank]] refers to the number of dimensions in the output of a transformation
 	 - Also can be said to be the number of dimensions in column space
 
-- Calculation:
+**Calculation**
+==2x2 Matrix==
+Visualization
 ![[determinant 1.png]]
+
+Math
+![[Pasted image 20231003095133.png]]
+Determinant = ad-bc
+- if this = 0, then it is singular
+
+==3x3 Matrix==
+![[Pasted image 20231003101932.png]]
+![[Pasted image 20231003102046.png]]
 
 # Resources
 - Video: [3blue1brown](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=6)

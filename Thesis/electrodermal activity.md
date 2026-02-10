@@ -1,5 +1,5 @@
 [[data collection]]
-[[experimentation]]
+[[experiment]]
 
 # Notes
 ## Summary

@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "3f8787f358e4d5cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "471e1bf5ae9a31b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f4427069e3a36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apply to future options opportunities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "apply to future options opportunities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "089a299f4d7e6898",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c795d071cb40b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c29ede9f83e7ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dcb0f2fd1a6be96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa2407d1601776bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7b5f62a4faefa4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c35f223b86b34ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6144b77544960b8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "apply to future options opportunities.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for apply to future options opportunities"
+            }
+          },
+          {
+            "id": "a9a5121acf2e1f38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apply to future options opportunities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from apply to future options opportunities"
+            }
+          },
+          {
+            "id": "4f7564740aa30625",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88096f855bd06427",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "708cb541b4034174",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "apply to future options opportunities.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of apply to future options opportunities"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "10f4427069e3a36c",
+  "lastOpenFiles": [
+    "Website_Personal/Content/input/_input-base.base",
+    "Website_Personal/Content/writing/tips -llm-code-cleanup.md",
+    "Website_Personal/Content/input/input_podcast_how-jensen-works.md",
+    "Website_Personal/Content/input/input_book_the-saas-playbook.md",
+    "Website_Personal/Content/input/input_podcast_nba-trade-deadline-super-bowl.md",
+    "Tasks/this weeks todos.md",
+    "Habits/6_8.5 hours in bed.md",
+    "blog idea - weekly resolutions.md",
+    "2026 weekly resolutions extended resolution list.md",
+    "Habits/5_40 Hours Work.md",
+    "Habits/4_Core & Mobility.md",
+    "Habits/3_Junk food.md",
+    "Habits/2_Sports Media.md",
+    "Catherine Finances.md",
+    "Streaming resources.md",
+    "Website_Personal/Content/writing/_writing-base.base",
+    "Website_Personal/Content/writing/post_constipated-altruism.md",
+    "Website_Personal/Content/input/input_notebooklm_universal-social-insurance.md",
+    "Website_Personal/Content/input/input_podcast_neighborhoods-kids-poverty.md",
+    "Website_Personal/Content/input/input_podcast_hard-fork-elon-musks-mega-merger.md",
+    "Website_Personal/Content/input/input_notebooklm_tldr-ai-roundup-feb-2026.md",
+    "Website_Personal/Content/input/input_notebooklm_cosmos-institute.md",
+    "Website_Personal/Content/input/input_notebooklm_dean-ball-hyperdimensional.md",
+    "Website_Personal/Content/input/input_podcast_di-saas-ter-market.md",
+    "Website_Personal/Content/input/input_podcast_americas-health-crisis-incentive.md",
+    "Website_Personal/Content/input/input_podcast_bayesian-brain-scientific-method.md",
+    "Website_Personal/Content/input/input_podcast_samuel-hughes-great-downzoning.md",
+    "Extras/Attachments/Pasted image 20260207003020.png",
+    "Untitled.base",
+    "_scripts/setCompletedDate.js",
+    "_scripts",
+    "Website_Personal/Content/Untitled",
+    "Website_Personal/Content/input",
+    "Website_Personal/Content/assets/IMG-20260204155938240.png",
+    "Website_Personal/Content/assets/IMG-20260204155938224.png",
+    "Website_Personal/Content/assets/IMG-20260205114756335.png",
+    "Website_Personal/Content/assets",
+    "Website_Personal/Content/projects/_projects-base.base",
+    "Extras/Attachments/Pasted image 20260204101243.png",
+    "Website_Personal/Content/writing/writing.json"
+  ]
+}

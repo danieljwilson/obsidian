@@ -3,12 +3,12 @@
 [[axioms of rational choice]]
 [[decision evaluation]]
 [[decision integration]]
-[[rational choice]]
+[[rational choice theory]]
 [[rational preference]]
 [[rational behavior]]
 
 # Notes
-Model of [[rational choice]] in which agent **maximizes** their [[expected utiliity theory]].
+Model of [[rational choice theory]] in which agent **maximizes** their [[expected utiliity theory]].
 
 If you follow the [[axioms of rational choice]] then you achieve maximal [[expected utiliity theory]].
 

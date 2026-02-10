@@ -1,3 +1,14 @@
+---
+title: autoencoder
+aliases:
+  - encoder only models
+  - Encoder-only model
+summary: 
+created: 2023-09-25 10:25
+modified: 2023-09-25 10:25
+tags:
+---
+
 [[machine learning]]
 [[neural network]]
 [[self-supervised]]

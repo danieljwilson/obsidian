@@ -3,6 +3,12 @@
 # Me
 
 # Others
+
+## [[Dad Wilson]]
+[Binoculars](https://www.bestbuy.com/site/nikon-aculon-a30-10x25-binoculars-black/7475021.p?skuId=7475021) (Best Buy Credit)
+
+---
+
 [[Donna Vakalis]]
 - [Espresso Machine](https://www.amazon.ca/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/ref=sr_1_3?dchild=1&keywords=breville+barista&qid=1603574750&sr=8-3)
 
@@ -15,10 +21,17 @@
 [[Kerry Hyatt]]
 - https://www.drakegeneralstore.ca/collections/blow-out-sale/products/arborist-cbc-retro-sock-men-s-women-s
 
-[[Catherine Wilson]]
-- [pup socks](https://gopupsocks.com/?utm_source=CTC%20FB%20Facebook_Desktop_Feed&utm_medium=10%2F13%20-%20CTC%20-%20Funnel%20-%20Oct%20Testing%20-%20Cats%20-%20LC%24&utm_content=Oct%20Testing%20-%20HP%20-%201198193882728966%20-%20CTC%20Team%201%20-%201x1%20-%20SR%20-%202.01.png&utm_campaign=Prospecting%20-%20Cats%2B%20-%20Oct%20Testing%20-%20Cats%20-%20v3&fbclid=IwAR3QyQgl06MMd8M5LuNHOHtp_j6SsT-q6beAumVx4yE0pUCLY8YvQ0T5J_Q)
+## [[Catherine Wilson]]
 - [pet masterpiece](https://crownandpaw.com/?fbclid=IwAR3achBfYxTN9qTK_Cf964-qNBmr_0tfBAOqsPMvgaECMtsdUR1tvH0AnFk)
+- Smart lights/plugs (amex credit) ![[Pasted image 20210131104956.png]]
+- [Birth Stone](https://www.etsy.com/ca/market/raw_aquamarine)
 
-[[Sheilah Wilson]]
+## [[Sheilah Wilson]]
 - for her cat, [Tiny Tuna](https://tinytuna.co/products/buy?fbclid=IwAR1Nq69ck-0xS_S_huPviTWvtGeiZGNlsbi-SCFPk_95MGJubBGic2Gi4Hw)
 
+### [[Alex Mazer]], [[Steve Fertuck]]
+[Savannah Van Incident](https://photos.google.com/album/AF1QipNYEKxWDMOC_188ssminPWhDj4nkUYrE3uEbJ0h/photo/AF1QipM12DqjlS5MPHoSyOMdS5Pt5WKAmQ47zTow0gdY)
+
+
+### [[Dave Sandomierski]]
+[Stereogram](https://www.easystereogrambuilder.com/) (of Baz)

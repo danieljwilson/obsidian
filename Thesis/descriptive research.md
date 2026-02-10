@@ -17,4 +17,4 @@ Answers [[what questions]] rather than [[why questions]]
 
 # Resources
 **Papers**
-- [[Scheel_AM_2020_Why Hypothesis Testers Should Spend Less TIme]]
+- [[Scheel_AM_2020_Why Hypothesis Testers Should Spend Less TIme Testing Hypotheses]]

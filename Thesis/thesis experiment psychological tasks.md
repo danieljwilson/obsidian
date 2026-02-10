@@ -1,4 +1,4 @@
-[[thesis experiment]]
+[[thesis experiments]]
 [[thesis]]
 [[individual differences]]
 [[normative models of decision making]]

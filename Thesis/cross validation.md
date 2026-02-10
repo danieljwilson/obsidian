@@ -1,9 +1,24 @@
-[[modeling]]
+---
+title: cross validation
+aliases: [cross validation set]
+summary: 
+created: 2021-05-29 14:13
+modified: 2021-05-29 14:13
+tags: []
+---
 
+[[modeling]]
+[[machine learning]]
+[[best practices]]
 
 # Notes
+The goal of cross-validation is to provide a fair assessment of a model’s predictive performance by training it and testing it on different subsets of data
+
 - [Test Data + Training Data] + Validation Data
 - These steps are summarized in this diagram from Scikit-learn (https://scikit-learn.org/stable/modules/cross_validation.html)
+
+**VALUE**
+by computing the [[standard deviation]] of the cross-validation scores, ==we can estimate the uncertainty of our model statistical performance==.^[This is the main advantage of cross-validation and can be crucial in practice, for example when comparing different models to figure out whether one is better than the other or whether the statistical performance differences are within the uncertainty.]
 
 ![Diagram from Sklearn](https://scikit-learn.org/stable/_images/grid_search_cross_validation.png) 
 - **leave one out** is the extreme version
@@ -19,6 +34,7 @@
 
 # Resources
 - [Collab notebook](https://colab.research.google.com/drive/1GWRCMkGVFiDw1nrsbq-jTSUNZp0luuUm#scrollTo=vYGJZXA9wKSF) from [[Neuromatch]]
+
 **Papers**
 - [Cross-validation failure: Small sample sizes lead to large error bars](https://www.sciencedirect.com/science/article/abs/pii/S1053811917305311) 
 	- on problems with statistical brain image analysis and cross-validation.

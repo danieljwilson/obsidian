@@ -1,7 +1,7 @@
 [[statistics]]
 [[science of science]]
 [[best practices]]
-[[experimentation]]
+[[experiment]]
 [[experimental design]]
 
 # Notes
@@ -11,12 +11,12 @@ A conjunction of theoretical and [[auxiliary assumptions]] that are necessary to
 2) developing [[measures]]
 3) establishing relationships between concepts
 4) specifying [[boundary conditions]] and [[auxiliary assumptions]]
-5) deriving statistical predictions as necessary steps before testing [[hypotheses]]
+5) deriving statistical predictions as necessary steps before testing [[hypothesis]]
 
 
 # Resources
 **Papers**
-- [[Scheel_AM_2020_Why Hypothesis Testers Should Spend Less TIme]]
+- [[Scheel_AM_2020_Why Hypothesis Testers Should Spend Less TIme Testing Hypotheses]]
 - Meehl 1990
 
 **Books**

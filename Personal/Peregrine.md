@@ -1,0 +1,26 @@
+
+
+The Peregrine
+
+- diligent observation...
+	- feels like "work"...both to pay attention while reading and to capture the prose initially...
+- apologia for rich people with useless hobbies
+	- elevating them to an "artform"
+- an exercise in simile...
+	- how many times as/like...
+- funny having david attenborough. Idea of "show don't tell"...that is what he normally does
+	- like reading a nature documentary
+		- writing about music is like dancing about architecture
+- a bit like listening to music. Repetitive...small variations on a theme. End up thinking other thoughts...sparks bigger ideas...
+	- you said you "drift in and out"...
+- we admire people with a passion
+- makes broad sweeping claims with no back up at all. Find that a bit annoying
+- Speaks authoritatively but often seems a bit nonsensical
+	- the description of killing a bird without any violence...feel like the bird might beg to differ...
+	- the comment of the apes outliving the dinosaurs...
+- Fascination with hawks akin to fascination with murder?
+	- 
+- SO MUCH anthropomorphizing
+	- so many claims of knowing what the hawk is thinking
+- Idea of what you find interesting when you are young with what is interesting when you are old
+

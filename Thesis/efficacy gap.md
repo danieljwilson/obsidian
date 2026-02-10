@@ -1,9 +1,9 @@
 [[self-efficacy]]
 [[mindset]]
 [[thesis]]
-[[thesis experiment]]
+[[thesis experiments]]
 [[intention-behavior gap]]
-[[intention-behavior gap measure]]
+[[value-intention-behavior gap measure]]
 
 # Notes
 A concept I define as the gap between one's self-efficacy ideas, i.e. how they view their own ability to achieve goals and one's actual efficacy. 
