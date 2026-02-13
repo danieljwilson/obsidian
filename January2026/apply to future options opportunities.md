@@ -38,6 +38,8 @@ July 31 - https://foresight.org/engage/fellowship/
 Astera
 [[South Park Commons]]
 - **O’Shaughnessy Fellowship.** A one-year, $100k program for curious people turning ideas into reality: science, tech, art, or anything in between. If you’re already building something strange, useful, or ambitious, this gives you time, money, and allies. **[→ Apply by April 30](https://www.osv.llc/fellowships)**
+[Mercatus center emerging scholar](https://www.paycomonline.net/v4/ats/web.php/portal/AE44365C590629C0F4CD81779E3B71B7/jobs/140456)
+- [X post](https://x.com/RMLLowe/status/2021243137545379998)
 # Grants
 https://cosmosgrants.org/
 https://aigrant.com/
