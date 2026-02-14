@@ -18,15 +18,17 @@ permalink:
 ```
 👆[[2026 weekly resolutions extended resolution list]]
 
-Apple 
-- add category language for app 
-- add description of sensor kit vars
+- [ ] Book fondo
+- [ ] Book bikes
+- [ ] Book Corsica
+- [ ] 80000 hours advising
+- [ ] 
 
 ### Put out 🔥
 - [ ] Send Cendri dataframe
-- [ ] Apple edits
-- [ ] Guarantme
-- [ ] Monaco medical form, SAS
+- [x] Apple edits
+- [x] Guarantme
+- [x] Monaco medical form, SAS
 - [ ] New credit card
 - [x] CPAM application (takes 6 weeks)
 	- [x] 3 last quittances loyer/electric bills
@@ -44,8 +46,8 @@ Apple
 - [ ] Donate Estrosi
 - [ ] Relist phone
 - [ ] Relist wetsuit
-- [ ] Monaco race medical certificate
-- [ ] Check Donna voting
+- [x] Monaco race medical certificate
+- [x] Check Donna voting
 - [x] Check Donna Amos account
 - [x] Call re: CAF missing documents?
 ### Project

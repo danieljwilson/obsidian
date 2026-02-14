@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "this weeks todos"
+              "title": "paper_dg-ibg_measure"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vanguard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for this weeks todos"
+              "title": "Backlinks for paper_dg-ibg_measure"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from this weeks todos"
+              "title": "Outgoing links from paper_dg-ibg_measure"
             }
           },
           {
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of this weeks todos"
+              "title": "Outline of paper_dg-ibg_measure"
             }
           }
         ],
@@ -197,6 +198,22 @@
   },
   "active": "10f4427069e3a36c",
   "lastOpenFiles": [
+    "paper_dg-ibg_measure_todos.md",
+    "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+    "pairent app resources.md",
+    "CEW financial overview.md",
+    "Website_Personal/Content/input/input_podcast_we-didnt-ask-for-this-internet.md",
+    "Catherine Finances.md",
+    "Tasks/this weeks todos.md",
+    "Streaming resources.md",
+    "Website_Personal/Content/input/input_podcast_hard-fork-something-big-ai-romance.md",
+    "Website_Personal/Content/input/input_notebooklm_neural-probabilistic-language-model.md",
+    "Website_Personal/Content/input/input_notebooklm_what-happened-with-bio-anchors.md",
+    "Extras/Attachments/Pasted image 20260213144706.png",
+    "Extras/Attachments/Pasted image 20260213143339.png",
+    "Extras/Attachments/Pasted image 20260213135733.png",
+    "Untitled.md",
+    "Website_Personal/Content/Intention-Behavior_Gap_Measure_-_SONA_Fall_2025.llm.md",
     "Website_Personal/Content/input/input_podcast_sorkin-market-bubbles-lessons-1929.md",
     "Website_Personal/Content/input/_input-base.base",
     "Website_Personal/Content/input/input_podcast_waseem-daher-passion-build-company.md",
@@ -211,19 +228,7 @@
     "Website_Personal/Content/input/input_podcast_betting-company-on-ai.md",
     "Website_Personal/Content/input/input_podcast_phrack.md",
     "Website_Personal/Content/input/input_podcast_is-wokeness-finally-dead.md",
-    "Website_Personal/Content/input/input_podcast_we-had-six-months-left.md",
-    "Website_Personal/Content/input/input_podcast_flipping-ropes-eddie-pepitone.md",
-    "Website_Personal/Content/input/input_podcast_mastering-customer-interviews.md",
-    "Website_Personal/Content/input/input_movie_the-empire-strikes-back.md",
-    "Website_Personal/Content/input/input_podcast_how-jensen-works.md",
-    "Website_Personal/Content/input/input_notebooklm_dean-ball-hyperdimensional.md",
-    "Tasks/this weeks todos.md",
-    "Streaming resources.md",
-    "Website_Personal/Content/writing/post_email-to-input-pipeline.md",
     "Website_Personal/Content/writing/_writing-base.base",
-    "Personal website next step.md",
-    "Website_Personal/Content/writing/tips-euro-keyboard-shortcut.md",
-    "Website_Personal/Content/writing/tips-notebookLM-for-everything.md",
     "Extras/Attachments/Pasted image 20260207003020.png",
     "Untitled.base",
     "_scripts/setCompletedDate.js",
