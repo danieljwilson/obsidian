@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+                "file": "Tasks/this weeks todos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "paper_dg-ibg_measure"
+              "title": "this weeks todos"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+                "file": "Tasks/this weeks todos.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paper_dg-ibg_measure"
+              "title": "Backlinks for this weeks todos"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+                "file": "Tasks/this weeks todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from paper_dg-ibg_measure"
+              "title": "Outgoing links from this weeks todos"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+                "file": "Tasks/this weeks todos.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of paper_dg-ibg_measure"
+              "title": "Outline of this weeks todos"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "10f4427069e3a36c",
   "lastOpenFiles": [
-    "paper_dg-ibg_measure_todos.md",
+    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-13.md",
+    "Website_Personal/Content/input/input_podcast_pogacar-controversial-sponsor-lrcp.md",
     "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+    "paper_dg-ibg_measure_todos.md",
     "pairent app resources.md",
     "CEW financial overview.md",
     "Website_Personal/Content/input/input_podcast_we-didnt-ask-for-this-internet.md",
@@ -226,8 +228,6 @@
     "apply to future options opportunities.md",
     "Website_Personal/Content/input/input_podcast_wwdtm-lucy-dacus.md",
     "Website_Personal/Content/input/input_podcast_betting-company-on-ai.md",
-    "Website_Personal/Content/input/input_podcast_phrack.md",
-    "Website_Personal/Content/input/input_podcast_is-wokeness-finally-dead.md",
     "Website_Personal/Content/writing/_writing-base.base",
     "Extras/Attachments/Pasted image 20260207003020.png",
     "Untitled.base",
