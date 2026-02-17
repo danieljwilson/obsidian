@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.inFolder("Job Search/People")
+    - file.ext == "md"
+properties:
+  title:
+    displayName: Title
+  organization:
+    displayName: Org
+  connection:
+    displayName: Connection
+  status:
+    displayName: Status
+  date_last_contact:
+    displayName: Last Contact
+  priority:
+    displayName: Priority
+views:
+  - type: table
+    name: Outreach
+    order:
+      - file.name
+      - title
+      - organization
+      - connection
+      - status
+      - date_last_contact
+      - priority
+    sort:
+      - property: priority
+        direction: ASC

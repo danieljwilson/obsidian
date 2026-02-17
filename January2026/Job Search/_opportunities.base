@@ -1,0 +1,115 @@
+filters:
+  and:
+    - file.inFolder("Job Search/Opportunities")
+    - file.ext == "md"
+properties:
+  category:
+    displayName: Type
+  status:
+    displayName: Status
+  deadline:
+    displayName: Deadline
+  fit_score:
+    displayName: Fit
+  remote:
+    displayName: Remote
+  organization:
+    displayName: Org
+  role:
+    displayName: Role
+  date_applied:
+    displayName: Applied
+views:
+  - type: table
+    name: Pipeline
+    order:
+      - file.name
+      - category
+      - status
+      - deadline
+      - fit_score
+      - remote
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Action Required
+    filters:
+      and:
+        - status == "prospect"
+        - deadline != null
+    order:
+      - file.name
+      - category
+      - deadline
+      - organization
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Applied
+    filters:
+      or:
+        - status == "applied"
+        - status == "interviewing"
+    order:
+      - file.name
+      - organization
+      - role
+      - status
+      - date_applied
+    sort:
+      - property: date_applied
+        direction: DESC
+  - type: table
+    name: Jobs
+    filters:
+      and:
+        - category == "job"
+    order:
+      - file.name
+      - organization
+      - fit_score
+      - status
+    sort:
+      - property: fit_score
+        direction: DESC
+  - type: table
+    name: Fellowships
+    filters:
+      and:
+        - category == "fellowship"
+    order:
+      - file.name
+      - organization
+      - deadline
+      - status
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Incubators
+    filters:
+      and:
+        - category == "incubator"
+    order:
+      - file.name
+      - organization
+      - deadline
+      - status
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Grants
+    filters:
+      and:
+        - category == "grant"
+    order:
+      - file.name
+      - organization
+      - deadline
+      - status
+    sort:
+      - property: deadline
+        direction: ASC

@@ -18,6 +18,8 @@ permalink:
 ```
 👆[[2026 weekly resolutions extended resolution list]]
 
+- [ ] Apply : https://job-boards.greenhouse.io/runwayml/jobs/4553149005
+- [ ] 
 - [ ] Book fondo
 - [ ] Book bikes
 - [ ] Book Corsica

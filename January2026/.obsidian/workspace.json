@@ -11,24 +11,13 @@
             "id": "10f4427069e3a36c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Tasks/this weeks todos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Job Search/_people.base",
+                "viewName": "Outreach"
               },
-              "icon": "lucide-file",
-              "title": "this weeks todos"
+              "icon": "lucide-table",
+              "title": "_people"
             }
           }
         ]
@@ -63,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vanguard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Job Search/_people.base",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for this weeks todos"
+              "title": "Backlinks for _people"
             }
           },
           {
@@ -124,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Job Search/_people.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from this weeks todos"
+              "title": "Outgoing links from _people"
             }
           },
           {
@@ -167,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/this weeks todos.md",
+                "file": "Job Search/_people.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of this weeks todos"
+              "title": "Outline of _people"
             }
           }
         ],
@@ -198,49 +186,48 @@
   },
   "active": "10f4427069e3a36c",
   "lastOpenFiles": [
-    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-13.md",
-    "Website_Personal/Content/input/input_podcast_pogacar-controversial-sponsor-lrcp.md",
-    "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
-    "paper_dg-ibg_measure_todos.md",
-    "pairent app resources.md",
-    "CEW financial overview.md",
-    "Website_Personal/Content/input/input_podcast_we-didnt-ask-for-this-internet.md",
-    "Catherine Finances.md",
+    "Job Search/_opportunities.base",
+    "Job Search/People/Ariella-Hoffman-Peterson.md",
+    "Job Search/template-opportunity.md",
+    "Job Search/_people.base",
+    "Job Search/Dashboard.md",
+    "Website_Personal/Content/input/input_notebooklm_efficient-estimation-word-representations.md",
+    "Website_Personal/Content/input/input_notebooklm_marginal-revolution-saturday-links-2026-02-14.md",
+    "Website_Personal/Content/input/input_notebooklm_marginal-revolution-friday-links-2026-02-13.md",
+    "Website_Personal/Content/input/input_notebooklm_paperbanana-automating-academic-illustration.md",
+    "Website_Personal/Content/input/input_notebooklm_complete-guide-building-skills-claude.md",
+    "Website_Personal/Content/input/input_podcast_owning-the-ai-pareto-frontier-jeff-dean.md",
+    "Website_Personal/Content/input/input_podcast_100-more-years-of-google.md",
+    "Job/Future People.md",
+    "Job Search/template-person.md",
     "Tasks/this weeks todos.md",
-    "Streaming resources.md",
-    "Website_Personal/Content/input/input_podcast_hard-fork-something-big-ai-romance.md",
-    "Website_Personal/Content/input/input_notebooklm_neural-probabilistic-language-model.md",
-    "Website_Personal/Content/input/input_notebooklm_what-happened-with-bio-anchors.md",
+    "Job Search/Opportunities/South-Park-Commons.md",
+    "Job Search/Opportunities/Astera-Institute.md",
+    "Job Search/Opportunities/Mozilla-Fellowship.md",
+    "Job Search/Opportunities/Schmidt-Futures.md",
+    "Job Search/Opportunities/Knight-Arts-Tech-Fellowship.md",
+    "Job Search/Opportunities/ideas42.md",
+    "Job Search/Opportunities/BIT-Behavioural-Insights-Team.md",
+    "Job Search/People/Marina-Milyavskaya.md",
+    "Job Search/Opportunities/Anthropic.md",
+    "Job Search/People/Chris-Said.md",
+    "Job Search/Opportunities/Google-DeepMind-Health.md",
+    "Job Search/Opportunities/Apple-Health-AI.md",
+    "Job Search/People",
+    "Job Search/Opportunities",
+    "Job Search",
     "Extras/Attachments/Pasted image 20260213144706.png",
     "Extras/Attachments/Pasted image 20260213143339.png",
     "Extras/Attachments/Pasted image 20260213135733.png",
-    "Untitled.md",
-    "Website_Personal/Content/Intention-Behavior_Gap_Measure_-_SONA_Fall_2025.llm.md",
-    "Website_Personal/Content/input/input_podcast_sorkin-market-bubbles-lessons-1929.md",
     "Website_Personal/Content/input/_input-base.base",
-    "Website_Personal/Content/input/input_podcast_waseem-daher-passion-build-company.md",
-    "Website_Personal/Content/input/input_notebooklm_accelerating-scientific-research-gemini.md",
-    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-11.md",
-    "Website_Personal/Content/input/input_podcast_psychology-financial-planning.md",
-    "Website_Personal/Content/input/input_book_the-lean-startup.md",
-    "Website_Personal/Content/input/input_book_loneliness-of-sonia-and-sunny.md",
-    "Website_Personal/Content/input/input_book_the-saas-playbook.md",
-    "apply to future options opportunities.md",
-    "Website_Personal/Content/input/input_podcast_wwdtm-lucy-dacus.md",
-    "Website_Personal/Content/input/input_podcast_betting-company-on-ai.md",
     "Website_Personal/Content/writing/_writing-base.base",
     "Extras/Attachments/Pasted image 20260207003020.png",
     "Untitled.base",
     "_scripts/setCompletedDate.js",
     "_scripts",
-    "Website_Personal/Content/Untitled",
-    "Website_Personal/Content/input",
     "Website_Personal/Content/assets/IMG-20260204155938240.png",
     "Website_Personal/Content/assets/IMG-20260204155938224.png",
     "Website_Personal/Content/assets/IMG-20260209203617915.png",
-    "Website_Personal/Content/assets",
-    "Website_Personal/Content/projects/_projects-base.base",
-    "Extras/Attachments/Pasted image 20260204101243.png",
-    "Website_Personal/Content/writing/writing.json"
+    "Extras/Attachments/Pasted image 20260204101243.png"
   ]
 }
