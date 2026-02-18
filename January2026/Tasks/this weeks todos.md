@@ -19,15 +19,19 @@ permalink:
 👆[[2026 weekly resolutions extended resolution list]]
 
 - [ ] Apply : https://job-boards.greenhouse.io/runwayml/jobs/4553149005
-- [ ] 
+- [ ] 80000 consultation
+
+- [ ] Read over manuscript
+- [ ] Check strava project idea
+- [ ] CAF Email
+- [ ] Donna financial stuff
+
 - [ ] Book fondo
 - [ ] Book bikes
 - [ ] Book Corsica
-- [ ] 80000 hours advising
-- [ ] 
 
 ### Put out 🔥
-- [ ] Send Cendri dataframe
+- [x] Send Cendri dataframe
 - [x] Apple edits
 - [x] Guarantme
 - [x] Monaco medical form, SAS

@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "471e1bf5ae9a31b1",
+        "id": "569a9f1b039f0e22",
         "type": "tabs",
         "children": [
           {
-            "id": "10f4427069e3a36c",
+            "id": "1fcbd28dd0cd27c1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Job Search/_people.base",
-                "viewName": "Outreach"
+                "file": "Tasks/this weeks todos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "_people"
+              "icon": "lucide-file",
+              "title": "this weeks todos"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Search/_people.base",
+                "file": "Tasks/this weeks todos.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _people"
+              "title": "Backlinks for this weeks todos"
             }
           },
           {
@@ -112,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job Search/_people.base",
+                "file": "Tasks/this weeks todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _people"
+              "title": "Outgoing links from this weeks todos"
             }
           },
           {
@@ -155,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job Search/_people.base",
+                "file": "Tasks/this weeks todos.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _people"
+              "title": "Outline of this weeks todos"
             }
           }
         ],
@@ -184,12 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10f4427069e3a36c",
+  "active": "1fcbd28dd0cd27c1",
   "lastOpenFiles": [
+    "Job Search/_people.base",
+    "Website_Personal/Content/input/input_podcast_george-saunders-anger-ambition-sin.md",
+    "Website_Personal/Content/input/input_notebooklm_sweet-lesson-of-neuroscience.md",
+    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-16.md",
+    "Website_Personal/Content/input/input_notebooklm_moltbook-after-first-weekend.md",
+    "Job Search/Opportunities/Astera-Institute.md",
     "Job Search/_opportunities.base",
     "Job Search/People/Ariella-Hoffman-Peterson.md",
     "Job Search/template-opportunity.md",
-    "Job Search/_people.base",
     "Job Search/Dashboard.md",
     "Website_Personal/Content/input/input_notebooklm_efficient-estimation-word-representations.md",
     "Website_Personal/Content/input/input_notebooklm_marginal-revolution-saturday-links-2026-02-14.md",
@@ -202,17 +218,12 @@
     "Job Search/template-person.md",
     "Tasks/this weeks todos.md",
     "Job Search/Opportunities/South-Park-Commons.md",
-    "Job Search/Opportunities/Astera-Institute.md",
     "Job Search/Opportunities/Mozilla-Fellowship.md",
     "Job Search/Opportunities/Schmidt-Futures.md",
     "Job Search/Opportunities/Knight-Arts-Tech-Fellowship.md",
     "Job Search/Opportunities/ideas42.md",
     "Job Search/Opportunities/BIT-Behavioural-Insights-Team.md",
     "Job Search/People/Marina-Milyavskaya.md",
-    "Job Search/Opportunities/Anthropic.md",
-    "Job Search/People/Chris-Said.md",
-    "Job Search/Opportunities/Google-DeepMind-Health.md",
-    "Job Search/Opportunities/Apple-Health-AI.md",
     "Job Search/People",
     "Job Search/Opportunities",
     "Job Search",
