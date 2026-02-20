@@ -18,8 +18,7 @@ permalink:
 ```
 👆[[2026 weekly resolutions extended resolution list]]
 
-- [ ] Apply : https://job-boards.greenhouse.io/runwayml/jobs/4553149005
-- [ ] 80000 consultation
+
 
 - [ ] Read over manuscript
 - [ ] Check strava project idea
