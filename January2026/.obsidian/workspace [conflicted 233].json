@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "901eff08f5b937c4",
+        "id": "cb856471a6212e39",
         "type": "tabs",
         "children": [
           {
-            "id": "7893df4c00dfd0b2",
+            "id": "e538dc807949402c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Streaming resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Streaming resources"
             }
           }
         ]
@@ -92,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Streaming resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Streaming resources"
             }
           },
           {
@@ -110,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Streaming resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Streaming resources"
             }
           },
           {
@@ -152,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Streaming resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Streaming resources"
             }
           }
         ]
@@ -180,6 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7893df4c00dfd0b2",
-  "lastOpenFiles": []
+  "active": "e538dc807949402c",
+  "lastOpenFiles": [
+    "Tasks/this weeks todos.md",
+    "Website_Personal/Content/input/input_podcast_the-state-of-markets.md",
+    "Website_Personal/Content/input/input_podcast_iran-protests-and-sanctions.md",
+    "Website_Personal/Content/input/input_podcast_vaes-are-energy-based-models.md",
+    "Website_Personal/Content/input/input_podcast_you-dont-need-passion-pilot.md",
+    "Website_Personal/Content/input/input_podcast_andrew-ross-sorkin-market-bubbles.md",
+    "Website_Personal/Content/input/input_podcast_how-peptides-conquered-internet.md",
+    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-19.md",
+    "Website_Personal/Content/input/input_movie_sentimental-value.md",
+    "Website_Personal/Content/input/input_notebooklm_marginal-revolution-monday-links-2026-02-16.md",
+    "daily-to-dos.md"
+  ]
 }
