@@ -15,6 +15,8 @@ permalink:
 @tldrnewsletter.com
 @alphasignal.ai
 @gottman.com
+worksinprogress+features@substack.com
+dailybriefing@thomsonreuters.com
 ### Links
 [astral codex](https://www.astralcodexten.com/) (but ignore Open Threads)
 https://substack.com/@experimentalhistory

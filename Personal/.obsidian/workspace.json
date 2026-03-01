@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letters.md",
+                "file": "Theo 4 year old letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "letters"
+              "title": "Theo 4 year old letter"
+            }
+          },
+          {
+            "id": "8078447d30790f53",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "1387acf8e40fca52",
@@ -216,14 +228,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3afb71d9dde95297",
+  "active": "8078447d30790f53",
   "lastOpenFiles": [
-    "A few questions on Gender and kids.md",
-    "Journal/2024-03-06.md",
-    "French Class B2.2.md",
-    "letters.md",
-    "Theo 4 year old letter.md",
     "kids letters.md",
+    "letters.md",
+    "Journal/2024-03-06.md",
+    "A few questions on Gender and kids.md",
+    "French Class B2.2.md",
+    "Theo 4 year old letter.md",
     "Theo 3 years.md",
     "letter on kids.md",
     "Pasted image 20241129112713.png",
