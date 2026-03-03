@@ -18,16 +18,30 @@ permalink:
 ```
 👆[[2026 weekly resolutions extended resolution list]]
 
+**Replace Thesis**
 
+- [ ] Buy Stocks
 
+DGIBG
 - [ ] Read over manuscript
-- [ ] Check strava project idea
-- [ ] CAF Email
-- [ ] Donna financial stuff
+	- [ ] Make updates based on original notes - use ghostty panels
+PAIRENT
+- [ ] Record my audio
+- [ ] Test with already recorded audio
+- [ ] Allow to record audio after start using
+	- [ ] How to add/update?
 
-- [ ] Book fondo
+SIDE PROJECT
+- [ ] Check strava project idea
+- [x] CAF Email follow up
+
+ADMIN
+- [ ] Donna CPAM
+- [ ] Go through black book
+
+- [x] Book fondo
 - [ ] Book bikes
-- [ ] Book Corsica
+- [x] Book Corsica
 
 ### Put out 🔥
 - [x] Send Cendri dataframe
@@ -48,7 +62,7 @@ permalink:
 	- [ ] Update resume
 	- [ ] Apply Nabla
 - [x] Decide on French class
-- [ ] Donate Estrosi
+- [x] Donate Estrosi
 - [ ] Relist phone
 - [ ] Relist wetsuit
 - [x] Monaco race medical certificate

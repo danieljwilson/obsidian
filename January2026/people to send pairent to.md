@@ -18,3 +18,4 @@ permalink:
 - [What Will You Build For: Zoe Weinberg](https://blog.cosmos-institute.org/p/what-will-you-build-for-zoe-weinberg?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dc382df-aa95-49d7-aab9-8017f20058c6_5760x3240.png&open=false)
 
 Kevin Roose
+Jack Clark (Anthropic)

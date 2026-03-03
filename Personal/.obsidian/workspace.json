@@ -62,21 +62,9 @@
               "icon": "lucide-file",
               "title": "Theo 4 year old letter"
             }
-          },
-          {
-            "id": "8078447d30790f53",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "1387acf8e40fca52",
@@ -228,7 +216,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8078447d30790f53",
+  "active": "aefaf4bafffbf063",
   "lastOpenFiles": [
     "kids letters.md",
     "letters.md",
