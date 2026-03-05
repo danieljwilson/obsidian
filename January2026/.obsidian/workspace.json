@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 weekly resolutions extended resolution list.md",
+                "file": "Tasks/this weeks todos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026 weekly resolutions extended resolution list"
+              "title": "this weeks todos"
             }
           }
         ]
@@ -197,6 +197,18 @@
   },
   "active": "e538dc807949402c",
   "lastOpenFiles": [
+    "Website_Personal/Content/projects/pro-path-crossings-app.md",
+    "Extras/Templates/Template Project.md",
+    "Website_Personal/Content/projects/the-intention-behavior-gap.md",
+    "Website_Personal/Content/projects/_projects-base.base",
+    "Website_Personal/Content/projects/project-pairent.md",
+    "Website_Personal/Content/writing/_writing-base.base",
+    "2026 weekly resolutions extended resolution list.md",
+    "Website_Personal/Content/input/input_notebooklm_long-short-term-memory.md",
+    "Website_Personal/Content/input/input_notebooklm_next-token-predictor-ai-job-not-species.md",
+    "Website_Personal/Content/input/input_podcast_tea-snob-johnny-pemberton.md",
+    "Website_Personal/Content/input/input_podcast_permanent-temporary-tariff-regime.md",
+    "Website_Personal/Content/input/input_podcast_ai-agents-rip-through-economy.md",
     "Tasks/this weeks todos.md",
     "people to send pairent to.md",
     "pairent.md",
@@ -212,15 +224,6 @@
     "paper_dg-ibg_measure_todos.md",
     "Website_Personal/Content/input/input_podcast_maybe-mummy-jeremy-bent.md",
     "Website_Personal/Content/input/input_podcast_pentagon-vs-anthropic-ai-agent-slandered.md",
-    "Website_Personal/Content/input/input_podcast_the-state-of-markets.md",
-    "Website_Personal/Content/input/input_podcast_iran-protests-and-sanctions.md",
-    "Website_Personal/Content/input/input_podcast_vaes-are-energy-based-models.md",
-    "Website_Personal/Content/input/input_podcast_you-dont-need-passion-pilot.md",
-    "Website_Personal/Content/input/input_podcast_andrew-ross-sorkin-market-bubbles.md",
-    "Website_Personal/Content/input/input_podcast_how-peptides-conquered-internet.md",
-    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-02-19.md",
-    "Website_Personal/Content/input/input_movie_sentimental-value.md",
-    "Website_Personal/Content/input/input_notebooklm_marginal-revolution-monday-links-2026-02-16.md",
-    "daily-to-dos.md"
+    "Website_Personal/Content/input/input_podcast_the-state-of-markets.md"
   ]
 }

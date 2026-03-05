@@ -22,6 +22,8 @@ permalink:
 
 - [ ] Buy Stocks
 
+apniadtpjnhanyqw
+
 DGIBG
 - [ ] Read over manuscript
 	- [ ] Make updates based on original notes - use ghostty panels
