@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM learning.md",
+                "file": "Website_Personal/Content/projects/pro-path-crossings-app.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LLM learning"
+              "title": "pro-path-crossings-app"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "e538dc807949402c",
   "lastOpenFiles": [
+    "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
+    "Website_Personal/Content/projects/_projects-base.base",
+    "LLM learning.md",
     "Tasks/this weeks todos.md",
     "Website_Personal/Content/projects/the-intention-behavior-gap.md",
     "Website_Personal/Content/input/input_notebooklm_imagenet-classification-alexnet.md",
@@ -209,7 +212,6 @@
     "Website_Personal/Content/input/input_notebooklm_claude-code-agent-teams.md",
     "Website_Personal/Content/projects/pro-path-crossings-app.md",
     "Extras/Templates/Template Project.md",
-    "Website_Personal/Content/projects/_projects-base.base",
     "Website_Personal/Content/projects/project-pairent.md",
     "Website_Personal/Content/writing/_writing-base.base",
     "2026 weekly resolutions extended resolution list.md",
@@ -222,8 +224,6 @@
     "pairent.md",
     "pairent app resources.md",
     "people.md",
-    "Streaming resources.md",
-    "Website_Personal/Content/input/input_podcast_hard-fork-ai-eating-labor-market.md",
-    "Website_Personal/Content/input/input_podcast_ben-horowitz-rsi-crypto-ai-money.md"
+    "Streaming resources.md"
   ]
 }
