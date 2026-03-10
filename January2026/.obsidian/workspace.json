@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website_Personal/Content/projects/pro-path-crossings-app.md",
+                "file": "pairent-app-issues-developer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pro-path-crossings-app"
+              "title": "pairent-app-issues-developer"
             }
           }
         ]
@@ -197,9 +197,17 @@
   },
   "active": "e538dc807949402c",
   "lastOpenFiles": [
+    "Extras/Attachments/IMG-20260308213306757.png",
+    "Extras/Attachments/IMG-20260308212830177.png",
+    "pairent.md",
+    "pairent-app-issues-developer.md",
+    "pairent business and marketing resources.md",
+    "Streaming resources.md",
+    "pairent app resources.md",
+    "LLM learning.md",
+    "Website_Personal/Content/projects/pro-path-crossings-app.md",
     "Website_Personal/Content/projects/paper_dg-ibg_measure.md",
     "Website_Personal/Content/projects/_projects-base.base",
-    "LLM learning.md",
     "Tasks/this weeks todos.md",
     "Website_Personal/Content/projects/the-intention-behavior-gap.md",
     "Website_Personal/Content/input/input_notebooklm_imagenet-classification-alexnet.md",
@@ -210,7 +218,6 @@
     "Website_Personal/Content/input/input_notebooklm_pentagon-threatens-anthropic.md",
     "Website_Personal/Content/input/input_notebooklm_marginal-revolution-assorted-links-2026-03-03.md",
     "Website_Personal/Content/input/input_notebooklm_claude-code-agent-teams.md",
-    "Website_Personal/Content/projects/pro-path-crossings-app.md",
     "Extras/Templates/Template Project.md",
     "Website_Personal/Content/projects/project-pairent.md",
     "Website_Personal/Content/writing/_writing-base.base",
@@ -218,12 +225,6 @@
     "Website_Personal/Content/input/input_notebooklm_long-short-term-memory.md",
     "Website_Personal/Content/input/input_notebooklm_next-token-predictor-ai-job-not-species.md",
     "Website_Personal/Content/input/input_podcast_tea-snob-johnny-pemberton.md",
-    "Website_Personal/Content/input/input_podcast_permanent-temporary-tariff-regime.md",
-    "Website_Personal/Content/input/input_podcast_ai-agents-rip-through-economy.md",
-    "people to send pairent to.md",
-    "pairent.md",
-    "pairent app resources.md",
-    "people.md",
-    "Streaming resources.md"
+    "Website_Personal/Content/input/input_podcast_permanent-temporary-tariff-regime.md"
   ]
 }

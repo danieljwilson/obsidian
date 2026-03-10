@@ -9,7 +9,10 @@ priority:
 permalink:
 ---
 ---
+[[pairent app issues]]
 [[pairent app design guidelines]]
 [[pairent app resources]]
 [[pairent app parent guides and resources]]
 [[people to send pairent to]]
+
+[[pairent business and marketing resources]]
