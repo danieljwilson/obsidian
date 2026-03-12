@@ -20,9 +20,7 @@ permalink:
 
 **Replace Thesis**
 
-- [ ] Buy Stocks
-
-apniadtpjnhanyqw
+- [x] Buy Stocks
 
 DGIBG
 - [ ] Read over manuscript
@@ -34,7 +32,7 @@ PAIRENT
 	- [ ] How to add/update?
 
 SIDE PROJECT
-- [ ] Check strava project idea
+- [x] Check strava project idea
 - [x] CAF Email follow up
 
 ADMIN
