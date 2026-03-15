@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb856471a6212e39",
+        "id": "2328d6b25be2805d",
         "type": "tabs",
         "children": [
           {
-            "id": "e538dc807949402c",
+            "id": "96896211aae709c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e538dc807949402c",
+  "active": "96896211aae709c4",
   "lastOpenFiles": [
+    "future hqz.md",
+    "Learning.base",
+    "Worthy Reads/to read.md",
+    "LLM learning.md",
+    "Website_Personal/Content/projects/_projects-base.base",
+    "how-to-learn-anything-with-notebookLM.md",
+    "Tasks/this weeks todos.md",
     "Website_Personal/Content/input/input_book_all-that-is.md",
     "Website_Personal/Content/input/input_podcast_top-100-gen-ai-consumer-apps.md",
     "Website_Personal/Content/input/input_podcast_arrival-of-agi-shane-legg.md",
@@ -219,13 +226,7 @@
     "Website_Personal/Content/input/input_podcast_citation-diversity-statements.md",
     "Website_Personal/Content/input/input_podcast_evolution-doesnt-need-mutation.md",
     "Website_Personal/Content/input/input_podcast_burger-ceos-are-beefing.md",
-    "Website_Personal/Content/input/input_article_pairent.md",
-    "Website_Personal/Content/input/input_podcast_openai-fog-of-war.md",
-    "Website_Personal/Content/input/input_article_producing-your-thesis.md",
-    "Website_Personal/Content/input/input_book_the-director.md",
-    "Website_Personal/Content/input/input_notebooklm_daily-tech-digest-2026-03-10.md",
     "Extras/Attachments/IMG-20260308213306757.png",
-    "Extras/Attachments/IMG-20260308212830177.png",
-    "Website_Personal/Content/projects/_projects-base.base"
+    "Extras/Attachments/IMG-20260308212830177.png"
   ]
 }

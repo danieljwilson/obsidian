@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - categories.containsAny("learning", "learn")
