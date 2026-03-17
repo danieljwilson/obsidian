@@ -1,5 +1,5 @@
 ---
-title: Job Application
+title: 7 | Job Application
 entries:
   - 2026-02-20
   - 2026-03-09

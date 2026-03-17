@@ -18,13 +18,17 @@ permalink:
 ```
 👆[[2026 weekly resolutions extended resolution list]]
 
-**Replace Thesis**
 
-- [x] Buy Stocks
+**Make sites**
+- bespoke apps
+- recycle yes/no
+- data analysis journalism studio
+
+Add newsletter and consulting to website
 
 DGIBG
-- [ ] Read over manuscript
-	- [ ] Make updates based on original notes - use ghostty panels
+- [x] Read over manuscript
+	- [x] Make updates based on original notes - use ghostty panels
 PAIRENT
 - [ ] Record my audio
 - [ ] Test with already recorded audio
