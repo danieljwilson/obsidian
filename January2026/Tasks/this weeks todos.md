@@ -19,6 +19,7 @@ permalink:
 👆[[2026 weekly resolutions extended resolution list]]
 
 
+
 **Make sites**
 - bespoke apps
 - recycle yes/no

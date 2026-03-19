@@ -89,3 +89,27 @@ permalink:
 ### minutiae-poster-service
 - [ ] Review any in-progress work
 - [ ] Check for pending branch merges
+
+## Job Search
+
+*Updated: 2026-03-18*
+
+**Priority (8+):**
+- [ ] [Machine Learning Engineer - https://jobs.apple.com/en-us/details/200154882/ise-proactive... Have you] Machine Learning Engineer - https://jobs.apple.com/en-us/details/200154882/ise-proactive... Have you (score: 8.9) — [link](https://news.ycombinator.com/item?id=22765970)
+- [ ] [Proxify] Senior Salesforce Developer (score: 8.6) — [link](https://www.workingnomads.com/job/go/1440693/)
+- [ ] [Fintory / Various Engineers / Full-Time / Onsite or Remote (flexible WFH) / Duisburg / Germany We ar] Fintory / Various Engineers / Full-Time / Onsite or Remote (flexible WFH) / Duisburg / Germany We ar (score: 8.5) — [link](https://news.ycombinator.com/item?id=22692626)
+- [ ] [Proxify] Senior Adobe Commerce Developer (Magento) (score: 8.5) — [link](https://www.workingnomads.com/job/go/1440697/)
+- [ ] [Code for America] Engineers (1x Security Eng, 1x Senior Eng with Java), Community Organizers (score: 8.1) — [link](https://news.ycombinator.com/item?id=22667002)
+- [ ] [The Church of Jesus Christ of Latter-day Saints] Frontend Web Development Grader - BYU-Pathway Worldwide (score: 8.1) — [link](https://weworkremotely.com/remote-jobs/the-church-of-jesus-christ-of-latter-day-saints-frontend-web-development-grader-byu-pathway-worldwide-1)
+
+**Worth reviewing (6-8):**
+- [ ] [Wanderlog (YC W19)] Full-stack Software Engineer, Front-end Software Engineer (score: 7.9) — [link](https://news.ycombinator.com/item?id=22666308)
+- [ ] [WattTime] Many open roles (score: 7.8) — [link](https://news.ycombinator.com/item?id=22666243)
+- [ ] [Polly English] Looking For Online ESL Teachers - Remote (score: 7.6) — [link](https://www.workingnomads.com/job/go/1442376/)
+- [ ] [Zumper] Engineering, Product, Design, Sales Zumper is building the future of apartment rentals, making renting an apartment as easy as booking a hotel. We've just raised a $60M series D, and are now the largest privately held rental marketplace in the US (one in three Americans will use us this year). We're proud to be one of Inc Magazine's "Best Places to Work" and have a solid technology stack + lots of interesting problems to work on at scale. Open roles: https://www.zumper.com/jobs (score: 7.5) — [link](https://news.ycombinator.com/item?id=22666559)
+- [ ] [Highrise] Senior iOS Developer (score: 7.5) — [link](https://news.ycombinator.com/item?id=22669788)
+- [ ] [But you don't have money for paying salaries ? It seems you guys make a lot of people go through the] But you don't have money for paying salaries ? It seems you guys make a lot of people go through the (score: 7.5) — [link](https://news.ycombinator.com/item?id=22669838)
+- [ ] [Proxify] Senior Python AI Engineer (score: 7.5) — [link](https://www.workingnomads.com/job/go/1440685/)
+- [ ] [Course Hero] Various Engineering, Product, Design roles (score: 7.4) — [link](https://news.ycombinator.com/item?id=22670282)
+- [ ] [Lob] Sr Software Engineer (score: 7.3) — [link](https://news.ycombinator.com/item?id=22667887)
+- [ ] [Stellar AI] Senior Software Engineer (score: 7.3) — [link](https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer)
